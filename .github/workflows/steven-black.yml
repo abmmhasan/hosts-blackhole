@@ -29,6 +29,7 @@ jobs:
           wget -U "${UA}" -O "./hosts/steven-black/non-unified" "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social-only/hosts"
       - name: Commit
         run: |
+          ls -lrth ./hosts
           git ls-files --exclude-standard --directory
           if git diff --exit-code; then
             echo "nothing to commit"
