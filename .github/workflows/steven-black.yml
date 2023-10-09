@@ -30,14 +30,13 @@ jobs:
       - name: Commit
         run: |
           ls -lrth ./hosts/steven-black
-          git ls-files --exclude-standard --directory
-          if git diff --exit-code; then
-            echo "nothing to commit"
-            exit 0
-          else
+          if [[ git status -s ]]; then
             git config user.name github-actions
             git config user.email github-actions@github.com
             git add .
             git commit -m "${{github.workflow}} (${{github.run_number}}/${{github.run_id}})"
             git push
+          else
+            echo "nothing to commit"
+            exit 0
           fi
