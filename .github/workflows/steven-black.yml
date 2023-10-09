@@ -29,7 +29,6 @@ jobs:
           wget -U "${UA}" -O "./hosts/steven-black/non-unified" "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social-only/hosts"
       - name: Commit
         run: |
-          ls -lrth ./hosts/steven-black
           if [[ $(git status --porcelain) ]]; then
             git config user.name github-actions
             git config user.email github-actions@github.com
