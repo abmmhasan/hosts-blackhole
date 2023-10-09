@@ -1,0 +1,38 @@
+name: Steven Black Hosts list collector
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+
+jobs:
+  trophy:
+    name: Update latest
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT }}
+      - name: Collect latest hosts
+        continue-on-error: true
+        run: |
+          wget -U "${UA}" -O "./hosts/steven-black/unified" "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts"
+          wget -U "${UA}" -O "./hosts/steven-black/unified-fake-news" "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts"
+          wget -U "${UA}" -O "./hosts/steven-black/fake-news" "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-only/hosts"
+          wget -U "${UA}" -O "./hosts/steven-black/unified-gambling" "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts"
+          wget -U "${UA}" -O "./hosts/steven-black/gambling" "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts"
+          wget -U "${UA}" -O "./hosts/steven-black/unified-porn" "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts"
+      - name: Commit
+        run: |
+          git ls-files --exclude-standard --directory
+          if git diff --exit-code; then
+            echo "nothing to commit"
+            exit 0
+          else
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            git add .
+            git commit -m "${{github.workflow}} (${{github.run_number}}/${{github.run_id}})"
+            git push
+          fi
