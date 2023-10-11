@@ -1,0 +1,37 @@
+name: OISD Hosts list collector
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+
+jobs:
+  trophy:
+    name: Update latest
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT }}
+      - name: Collect latest hosts file
+        continue-on-error: true
+        run: |
+          wget -U "${UA}" -O "./hosts/oisd/ads" "https://small.oisd.nl"
+          wget -U "${UA}" -O "./hosts/oisd/security" "https://big.oisd.nl"
+          wget -U "${UA}" -O "./hosts/oisd/nsfw" "https://nsfw.oisd.nl"
+      - name: Commit
+        run: |
+          if [[ $(git status --porcelain) ]]; then
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            git add .
+            git commit -m "${{github.workflow}} (${{github.run_number}}/${{github.run_id}})"
+            git push
+          else
+            echo "nothing to commit"
+            exit 0
+          fi

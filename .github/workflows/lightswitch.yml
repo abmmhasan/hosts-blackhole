@@ -1,0 +1,40 @@
+name: Lightswitch05 Hosts list collector
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+
+jobs:
+  trophy:
+    name: Update latest
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT }}
+      - name: Collect latest hosts file
+        continue-on-error: true
+        run: |
+          wget -U "${UA}" -O "./hosts/lightswitch05/ads-tracking" "https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/ads-and-tracking-extended.txt"
+          wget -U "${UA}" -O "./hosts/lightswitch05/facebook" "https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/facebook-extended.txt"
+          wget -U "${UA}" -O "./hosts/lightswitch05/google-amp" "https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/amp-hosts-extended.txt"
+          wget -U "${UA}" -O "./hosts/lightswitch05/dating" "https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/dating-services-extended.txt"
+          wget -U "${UA}" -O "./hosts/lightswitch05/hate-junk" "https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/hate-and-junk-extended.txt"
+          wget -U "${UA}" -O "./hosts/lightswitch05/aggressive-tracking" "https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/tracking-aggressive-extended.txt"
+      - name: Commit
+        run: |
+          if [[ $(git status --porcelain) ]]; then
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            git add .
+            git commit -m "${{github.workflow}} (${{github.run_number}}/${{github.run_id}})"
+            git push
+          else
+            echo "nothing to commit"
+            exit 0
+          fi
