@@ -1,8 +1,8 @@
 [Adblock Plus]
-! Version: 202310222012
+! Version: 202310222103
 ! Title: oisd small
 ! Description: Block. Don't break.
-! Last modified: 2023-10-22T20:12:29+0000
+! Last modified: 2023-10-22T21:03:23+0000
 ! Expires: 1 hours
 ! Homepage: https://oisd.nl
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
@@ -5828,7 +5828,6 @@
 ||award.sitekeuring.net^
 ||awarecatching.com^
 ||awasrqp.xyz^
-||awaw.asia^
 ||away-stay.com^
 ||awayfterth.one^
 ||awayteemage.com^
@@ -10465,7 +10464,6 @@
 ||crayfishshepherd.com^
 ||crayon.meishichina.com^
 ||crazyhell.com^
-||crazyit8.com^
 ||crazylead.com^
 ||crazypopups.com^
 ||crazywingflap.com^
@@ -17705,7 +17703,6 @@
 ||grt02.com^
 ||grtaanmdu.com^
 ||grtexch.com^
-||grthhr.xyz^
 ||grtyb.com^
 ||grtyi.com^
 ||grtyj.com^
@@ -24157,7 +24154,6 @@
 ||mndsrv.com^
 ||mnetads.com^
 ||mng-ads.com^
-||mnhncf.cn^
 ||mnnmnn.com^
 ||mo.gushiji.cc^
 ||mo3i5n46.de^
@@ -40289,7 +40285,11 @@
 ||www-banner.chat.ru^
 ||www-google-analytics.l.google.com^
 ||www.7-7-7-partner.com^
+||www.awaw.asia^
+||www.crazyit8.com^
+||www.grthhr.xyz^
 ||www.klfbnklddfbkn.com^
+||www.mnhncf.cn^
 ||www4.hentai-rpg.com^
 ||www4.hentaigamecg.com^
 ||www5.oss-cn-hangzhou.aliyuncs.com^
@@ -41678,4 +41678,3 @@
 ||zzrjdp.xyz^
 ||zzxedr.xyz^
 ||zzxmcp.com^
-||zzyy18.top^
