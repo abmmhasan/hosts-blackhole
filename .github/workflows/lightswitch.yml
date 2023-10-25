@@ -1,10 +1,7 @@
 name: Lightswitch05 Hosts list collector
 on:
-  push:
-    branches:
-      - main
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 */12 * * *'
   workflow_dispatch:
 permissions:
   contents: write
@@ -24,7 +21,6 @@ jobs:
           wget -U "${UA}" -O "./hosts/lightswitch05/facebook" "https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/facebook-extended.txt"
           wget -U "${UA}" -O "./hosts/lightswitch05/google-amp" "https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/amp-hosts-extended.txt"
           wget -U "${UA}" -O "./hosts/lightswitch05/dating" "https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/dating-services-extended.txt"
-          wget -U "${UA}" -O "./hosts/lightswitch05/hate-junk" "https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/hate-and-junk-extended.txt"
           wget -U "${UA}" -O "./hosts/lightswitch05/aggressive-tracking" "https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/tracking-aggressive-extended.txt"
       - name: Commit
         run: |

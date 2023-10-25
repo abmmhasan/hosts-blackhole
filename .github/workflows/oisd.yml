@@ -1,10 +1,7 @@
 name: OISD Hosts list collector
 on:
-  push:
-    branches:
-      - main
   schedule:
-    - cron: '5 * * * *'
+    - cron: '5 */12 * * *'
   workflow_dispatch:
 permissions:
   contents: write
