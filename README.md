@@ -4,7 +4,7 @@ This is actually a collector repository. Several hosts file are collected from d
 
 ## List of Hosts Files
 
-Currently, 16 different variants from 3 sources are provided. All the file links, are direct file link to this Github
+Currently, 15 different variants from 3 sources are provided. All the file links, are direct file link to this Github
 repo.
 
 ### [OISD](https://oisd.nl/)
