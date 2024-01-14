@@ -19,8 +19,6 @@ jobs:
         run: |
           wget -U "${UA}" -O "./hosts/firebog/tick.txt" "https://v.firebog.net/hosts/lists.php?type=tick"
           wget -U "${UA}" -O "./hosts/firebog/aio" -i "./hosts/firebog/tick.txt"
-          wget -U "${UA}" -O "./hosts/firebog/adult.txt" "https://v.firebog.net/hosts/lists.php?type=adult"
-          wget -U "${UA}" -O "./hosts/firebog/adult" -i "./hosts/firebog/adult.txt"
       - name: Commit
         run: |
           if [[ $(git status --porcelain) ]]; then

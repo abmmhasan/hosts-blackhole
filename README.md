@@ -39,7 +39,6 @@ repo.
 
 ### [Firebog](https://firebog.net/)
 
-| Type   |                                      Blocking Type                                       |                                           Copy Link                                            |
-|--------|:----------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------:|
-| Ticked | Suspicious + Ads + Tracking & Telemetry + Malicious + Other (Usually no false-positives) |  [Link](https://raw.githubusercontent.com/abmmhasan/hosts-blackhole/master/hosts/firebog/aio)  |
-| Adult  |                      Pornography/Adult (Usually no false-positives)                      | [Link](https://raw.githubusercontent.com/abmmhasan/hosts-blackhole/master/hosts/firebog/adult) |
+| Type   |                                      Blocking Type                                       |                                          Copy Link                                           |
+|--------|:----------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|
+| Ticked | Suspicious + Ads + Tracking & Telemetry + Malicious + Other (Usually no false-positives) | [Link](https://raw.githubusercontent.com/abmmhasan/hosts-blackhole/master/hosts/firebog/aio) |
