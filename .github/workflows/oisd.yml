@@ -1,4 +1,4 @@
-name: OISD Hosts list collector
+name: OISD List Collector
 on:
   schedule:
     - cron: '5 */12 * * *'
@@ -15,7 +15,6 @@ jobs:
         with:
           token: ${{ secrets.PAT }}
       - name: Collect latest hosts file
-        continue-on-error: true
         run: |
           wget -U "${UA}" -O "./hosts/oisd/ads" "https://small.oisd.nl"
           wget -U "${UA}" -O "./hosts/oisd/security" "https://big.oisd.nl"

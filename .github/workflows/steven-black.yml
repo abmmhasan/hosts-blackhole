@@ -1,4 +1,4 @@
-name: Steven Black Hosts list collector
+name: Steven Black List Collector
 on:
   schedule:
     - cron: '10 */12 * * *'
@@ -15,7 +15,6 @@ jobs:
         with:
           token: ${{ secrets.PAT }}
       - name: Collect latest hosts file
-        continue-on-error: true
         run: |
           wget -U "${UA}" -O "./hosts/steven-black/unified" "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts"
           wget -U "${UA}" -O "./hosts/steven-black/fake-news" "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-only/hosts"

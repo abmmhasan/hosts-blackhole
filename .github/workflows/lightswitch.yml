@@ -1,4 +1,4 @@
-name: Lightswitch05 Hosts list collector
+name: Lightswitch05 List Collector
 on:
   schedule:
     - cron: '0 */12 * * *'
@@ -15,7 +15,6 @@ jobs:
         with:
           token: ${{ secrets.PAT }}
       - name: Collect latest hosts file
-        continue-on-error: true
         run: |
           wget -U "${UA}" -O "./hosts/lightswitch05/ads-tracking" "https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/ads-and-tracking-extended.txt"
           wget -U "${UA}" -O "./hosts/lightswitch05/facebook" "https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/facebook-extended.txt"
