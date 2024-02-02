@@ -1,11 +1,14 @@
 # Hosts Blackhole
 
-This is actually a collector repository. Several hosts file are collected from different sources on daily basis.
+If you are using any custom ad-blocking servers at home (like Pi-Hole, AdGuard etc.) or any servers that accepts ABP style or Host file style block list you can use ad list provided here. 
+Just copy the link address from **Copy Link** column and add to your gravity source.
+Also, it'd be great if you can set up schedular to update on daily basis.
 
 ## List of Hosts Files
 
 Currently, 16 different variants from 4 sources are provided. All the file links, are direct file link to this Github
 repo.
+> Several hosts file are collected from different sources on daily basis.
 
 ### [OISD](https://oisd.nl/)
 
