@@ -1,10 +1,10 @@
 [Adblock Plus]
-! Version: 202405040007
+! Version: 202405041206
 ! Title: oisd small
 ! Description: Block. Don't break.
 ! Syntax: Adblock Plus Filter List
-! Entries: 48105
-! Last modified: 2024-05-04T00:07:21+0000
+! Entries: 48108
+! Last modified: 2024-05-04T12:06:34+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -2031,7 +2031,6 @@
 ||ad.zinimedia.com^
 ||ad.zui.com^
 ||ad0.bigmir.net^
-||ad0001.aniyae.net^
 ||ad01.mediacorpsingapore.com^
 ||ad01.tmgrup.com.tr^
 ||ad1.emule-project.org^
@@ -27164,6 +27163,7 @@
 ||mercialtaver.club^
 ||mercianposter.life^
 ||mercifulsurveysurpass.com^
+||mercor.cn^
 ||mercuras.com^
 ||mercury.coupang.com^
 ||mercuryprettyapplication.com^
@@ -31100,6 +31100,7 @@
 ||paicepte.xyz^
 ||paichaus.com^
 ||paid.outbrain.com^
+||paigarohauja.com^
 ||paigna.com^
 ||paikoasa.tv^
 ||paikshueless.com^
@@ -32517,6 +32518,7 @@
 ||pokiespedule.guru^
 ||pokingtrainswriter.com^
 ||pokomopunkin.top^
+||pokrutim.ru^
 ||polacrereacts.top^
 ||polads.pro^
 ||poland-money.fun^
@@ -34352,6 +34354,7 @@
 ||qwe0231141.bj.bcebos.com^
 ||qwe4456133.justthegays.com^
 ||qwerfdx.com^
+||qwerioy.top^
 ||qwertytracks.com^
 ||qwfh39851jtfvkurf21hf.com^
 ||qwjtdcl.cn^
