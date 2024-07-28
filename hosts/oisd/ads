@@ -1,10 +1,10 @@
 [Adblock Plus]
-! Version: 202407280006
+! Version: 202407281227
 ! Title: oisd small
 ! Description: Block. Don't break.
 ! Syntax: Adblock Plus Filter List
-! Entries: 45255
-! Last modified: 2024-07-28T00:06:45+0000
+! Entries: 45249
+! Last modified: 2024-07-28T12:27:14+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -1184,6 +1184,7 @@
 ||72d197aaa2.com^
 ||72hdgb5o.de^
 ||733ecf9148.com^
+||73a70e581b.com^
 ||7411603f57.com^
 ||741a18df39.com^
 ||74264bd2c8.com^
@@ -1461,7 +1462,6 @@
 ||9a55672b0c.com^
 ||9a7c81f58e.com^
 ||9a7f507754.com^
-||9a8123bbe5.73a70e581b.com^
 ||9a857c6721.com^
 ||9a876646fa.com^
 ||9aad7115.amy.gs^
@@ -5674,7 +5674,6 @@
 ||ape.mfj.se^
 ||ape.smartplanschema.se^
 ||apeidol.com^
-||apelleswoppish.top^
 ||apeobservedoverlook.com^
 ||apepix.com^
 ||apercusdimly.com^
@@ -14329,7 +14328,6 @@
 ||dikkoplida.cam^
 ||dilatenine.com^
 ||dilateriotcosmetic.com^
-||dilemiverre.com^
 ||diligentrefrigerator.pro^
 ||dilip-xko.com^
 ||dilruwha.net^
@@ -23182,7 +23180,6 @@
 ||kaleidoscopepincers.com^
 ||kalganautographeater.com^
 ||kalganpuppycensor.com^
-||kallimaacoasm.com^
 ||kalmukrattail.com^
 ||kamachilinins.com^
 ||kamassmyalia.com^
@@ -33763,7 +33760,6 @@
 ||reticencecarefully.com^
 ||reticencevaliddecoction.com^
 ||retinaesprent.com^
-||retintsharbors.top^
 ||retintsmillion.com^
 ||retinueabash.com^
 ||retinuegigoh.com^
@@ -35680,7 +35676,6 @@
 ||shanorin.com^
 ||shapedhomicidalalbert.com^
 ||shapelcounset.xyz^
-||shapesmesstin.click^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||share-server.com^
 ||share.gzdsw.com^
@@ -43796,7 +43791,6 @@
 ||wretcheddrunkard.com^
 ||wretchmilitantasia.com^
 ||wrevenuewasadi.info^
-||wrichtdinaric.top^
 ||wringdecorate.com^
 ||wrinkleirritateoverrated.com^
 ||wristtrunkpublication.com^
