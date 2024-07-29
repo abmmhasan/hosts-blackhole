@@ -1,10 +1,10 @@
 [Adblock Plus]
-! Version: 202407290007
+! Version: 202407291207
 ! Title: oisd small
 ! Description: Block. Don't break.
 ! Syntax: Adblock Plus Filter List
 ! Entries: 45254
-! Last modified: 2024-07-29T00:07:27+0000
+! Last modified: 2024-07-29T12:07:29+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -35017,6 +35017,7 @@
 ||sbfsdvc.com^
 ||sbhc.portalhc.com^
 ||sbhduht.xyz^
+||sbhight.com^
 ||sbiloi.xyz^
 ||sbpb1.chuiyue.com^
 ||sbrakepads.com^
@@ -35961,7 +35962,6 @@
 ||signingtherebyjeopardize.com^
 ||sihighlyrecom.xyz^
 ||sikapo.top^
-||sikaq.top^
 ||silenceblindness.com^
 ||silenthill24.biz^
 ||silentinevitable.com^
