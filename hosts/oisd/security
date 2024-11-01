@@ -1,10 +1,10 @@
 [Adblock Plus]
-! Version: 202410311239
+! Version: 202411010006
 ! Title: oisd big
 ! Description: Block. Don't break.
 ! Syntax: Adblock Plus Filter List
-! Entries: 136965
-! Last modified: 2024-10-31T12:39:19+0000
+! Entries: 136947
+! Last modified: 2024-11-01T00:06:46+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -991,6 +991,7 @@
 ||168.red-80-24-154.staticip.rima-tde.net^
 ||1680660.com^
 ||1680go.com^
+||1686385128.rsc.cdn77.org^
 ||1688.se^
 ||168ad.cc^
 ||169.red-80-39-45.staticip.rima-tde.net^
@@ -1159,6 +1160,7 @@
 ||193.red-88-30-29.staticip.rima-tde.net^
 ||193.red-88-31-36.staticip.rima-tde.net^
 ||193.sub-75-197-208.myvzw.com^
+||1937343605.rsc.cdn77.org^
 ||193bde9ab1.com^
 ||19515bia.de^
 ||196.red-88-22-102.staticip.rima-tde.net^
@@ -6138,6 +6140,7 @@
 ||acceptbusiness.net^
 ||acceptes.store^
 ||acceptimpatient.com^
+||acceptvigorously.com^
 ||acceptway.com^
 ||acces-cr.fr^
 ||acces-lbc.fr^
@@ -7899,6 +7902,7 @@
 ||adgrx.com^
 ||adguanggao.eee114.com^
 ||adguru.guruji.com^
+||adgzfujunv.com^
 ||adhai.com^
 ||adhaven.com^
 ||adhd-treatment.live^
@@ -10171,7 +10175,6 @@
 ||adsfactor.net^
 ||adsfan.net^
 ||adsfast.com^
-||adsfe.xyz^
 ||adsfile.bssdlbig.kugou.com^
 ||adsfile.qq.com^
 ||adsforce.net^
@@ -12190,7 +12193,6 @@
 ||aitsatho.com^
 ||aitsouty.top^
 ||aiupwa.com^
-||aiuto-abbonamento-netfiix.info^
 ||aivaylaco.com^
 ||aiwen.cc^
 ||aiwhooltoz.net^
@@ -20804,7 +20806,6 @@
 ||bcservice.it^
 ||bcutiepie.com^
 ||bcxcxixcwprccn.com^
-||bcxde.xyz^
 ||bcyprusuk.com^
 ||bd-china-1.appmobile.cn^
 ||bd-js.baixing.net^
@@ -25087,6 +25088,7 @@
 ||bruecken-abdichtung.de^
 ||brufunbil.sistemapreparatorio.io^
 ||brugerverificering.com^
+||brughsasha.shop^
 ||bruisebaseball.com^
 ||bruisedlungmisuse.com^
 ||bruisedpaperworkmetre.com^
@@ -25617,7 +25619,6 @@
 ||business-api.tiktok.com^
 ||business-degree.live^
 ||business-manange.com^
-||business-postr-itp.xyz^
 ||business-suport-help.com^
 ||business24.fr^
 ||business360news.com^
@@ -25898,7 +25899,6 @@
 ||bwtcilgll.com^
 ||bwuwirv.cn^
 ||bwvofgqhmab.com^
-||bwz4e.icu^
 ||bx5.tubemaximum.com^
 ||bx9000.top^
 ||bxacmsvmxb.com^
@@ -27335,7 +27335,6 @@
 ||casaxprt.com^
 ||cascademuscularbodyguard.com^
 ||cascadewatchful.com^
-||casdu.xyz^
 ||case-file-req-f-appeal-form.glitch.me^
 ||case-good.com^
 ||case-id-10029083854.fr^
@@ -28507,7 +28506,6 @@
 ||ceramicalienate.com^
 ||cerbailliance.fr^
 ||cerealsrecommended.com^
-||cerealsromana.com^
 ||cerealssheet.com^
 ||ceremonyavengeheartache.com^
 ||ceresmosic.com^
@@ -28565,7 +28563,6 @@
 ||cesebsir.xyz^
 ||cesebtp.com^
 ||cesecurite.fr^
-||ceskaposto-cza.xyz^
 ||ceskapostscz.top^
 ||ceskarepublika.net^
 ||cesoac.org^
@@ -29271,7 +29268,6 @@
 ||checkcsgo.com^
 ||checkealos.com^
 ||checking-browser.com^
-||checking-registration-ntfx.info^
 ||checking-your-browser.com^
 ||checkingaccountnew.com^
 ||checkingaccountsspot.com^
@@ -29765,7 +29761,6 @@
 ||chronopost-entrepot.fr^
 ||chronopost-expedition.fr^
 ||chronopost-facturation.fr^
-||chronopost-fr.fit^
 ||chronopost-fr.fr^
 ||chronopost-frais-colis.fr^
 ||chronopost-gestion.fr^
@@ -30996,7 +30991,6 @@
 ||cloudedsale.com^
 ||clouderrorreporting.googleapis.com^
 ||cloudexperiencehost.com^
-||cloudf-update.com^
 ||cloudfiles-secure-g0v.su^
 ||cloudfilesharingdomainurllinksys.duckdns.org^
 ||cloudfirmbanking.com^
@@ -31046,7 +31040,6 @@
 ||cloudssd.com.br^
 ||cloudtrack-camp.com^
 ||cloudtraff.com^
-||cloudtransferfile.info^
 ||cloudtv.pro^
 ||cloudvideosa.com^
 ||cloudypotsincluded.com^
@@ -32659,7 +32652,6 @@
 ||connexion-amazon.fr^
 ||connexion-cetelembut.fr^
 ||connexion-prime.fr^
-||connexion-sante-france.fr^
 ||connexion-suivi-colis.fr^
 ||connexion-verification.fr^
 ||connexion-vitale.fr^
@@ -33400,11 +33392,9 @@
 ||correo-gos.top^
 ||correo-paraguayotb.top^
 ||correo.masousa.com^
-||correoargentino.top^
 ||correoartinoinvest.top^
 ||correob.shop^
 ||correoc.org^
-||correoe.buzz^
 ||correoenlanube.com^
 ||correoi-uy.top^
 ||correoos-cr.top^
@@ -35394,7 +35384,6 @@
 ||cvcddno.cn^
 ||cvda.17173.com^
 ||cvemhco.cn^
-||cvfbghn.top^
 ||cvgrszkg.xyz^
 ||cvgunandammo.com^
 ||cvix.live^
@@ -35567,7 +35556,6 @@
 ||cypril.com^
 ||cyprulspost.top^
 ||cyprus-villas.org^
-||cypruspost-post.mom^
 ||cypruspost.ink^
 ||cypruspostsdasd.lol^
 ||cyprusposttst-post.top^
@@ -37220,6 +37208,7 @@
 ||dannyuncoach.com^
 ||danone-casiers.fr^
 ||danscij.com^
+||dansimseng.xyz^
 ||dansnoscoeur.fr^
 ||danspowsmwap.com^
 ||dantasg.com^
@@ -37742,7 +37731,6 @@
 ||dcfnihzg81pa.com^
 ||dcftjs8112.woodensunbeds.com^
 ||dcfvfgt.top^
-||dcfvgter.top^
 ||dchxxvk.cn^
 ||dchyjb.xyz^
 ||dci.isgre.at^
@@ -38240,6 +38228,7 @@
 ||deitynosebleed.com^
 ||deja.com^
 ||dejavu.mlapps.com^
+||dejjjdbifojmi.com^
 ||dejong-greiner.at^
 ||dejoyaux.fr^
 ||dekanser.com^
@@ -39147,7 +39136,6 @@
 ||dhl-aus-id.com^
 ||dhl-colis-suivi.fr^
 ||dhl-cr.top^
-||dhl-cri.buzz^
 ||dhl-crs.top^
 ||dhl-fournisseurs.fr^
 ||dhl-globalmail.fr^
@@ -45711,7 +45699,6 @@
 ||estafet.futbol^
 ||estafeta-v.top^
 ||estafeta5.top^
-||estafeta8.cyou^
 ||estafetai.cc^
 ||estafetak.ink^
 ||estafetam.ink^
@@ -46506,7 +46493,6 @@
 ||evriadu.top^
 ||evriady.top^
 ||evribme.top^
-||evridenh.top^
 ||evrifuyk.top^
 ||evrigasz.top^
 ||evrighj.top^
@@ -49796,6 +49782,7 @@
 ||fjallravennederland.com^
 ||fjaqxtszakk.com^
 ||fjbone.com^
+||fjbtkrfay.com^
 ||fjdfqy.com^
 ||fjdy.cc^
 ||fjhfruuhmgnrt.com^
@@ -54098,7 +54085,6 @@
 ||ghaires.com^
 ||ghaly.ae^
 ||ghanalpost.top^
-||ghanaposi-ghv.xyz^
 ||ghanapost-ghsp.top^
 ||ghanapost.ink^
 ||ghanemdesigns.com^
@@ -55413,6 +55399,7 @@
 ||gombotrubu.com^
 ||gomnlt.com^
 ||gomusic.com^
+||gonakedowing.com^
 ||gondolagnome.com^
 ||goneawaytogy.info^
 ||goneleft.com^
@@ -58954,7 +58941,6 @@
 ||help-authorizedlnstagram.onrender.com^
 ||help-bitdefender.com^
 ||help-center-login.com^
-||help-cus.top^
 ||help-desk-number.com^
 ||help-evrii.top^
 ||help-line.me^
@@ -61640,7 +61626,6 @@
 ||ibazokahacker.linkpc.net^
 ||ibbco.com.sa^
 ||ibbplatform.com^
-||ibcfd.xyz^
 ||ibcfg.xyz^
 ||ibcm5at6qrz.life^
 ||ibd-as-api.iq.com^
@@ -64088,7 +64073,6 @@
 ||integral-marketing.com^
 ||integralinstalledmoody.com^
 ||integralz.com^
-||integralz.plus^
 ||integrate.thrive.today^
 ||integratedadebsons.com^
 ||integratedidea.com^
@@ -65712,6 +65696,7 @@
 ||jbib-hxyf.icu^
 ||jbkqemk.icu^
 ||jblaw.co.ke^
+||jblkvlyurssx.xyz^
 ||jblproperties.net^
 ||jblsoldes.fr^
 ||jbm6c54upkui.com^
@@ -67987,7 +67972,6 @@
 ||kelvin21.doodlekit.com^
 ||kelvinnikkel.com^
 ||kemaz.xyz^
-||kemmars.com^
 ||kemostarlogistics.co.ke^
 ||kempensekranten.be^
 ||kemvaleo.ru^
@@ -69128,6 +69112,7 @@
 ||kotuo.cn^
 ||kotzzdwl.com^
 ||koubi.jp^
+||koublid.top^
 ||koublxdh.com^
 ||kouceeptait.com^
 ||koucerie.com^
@@ -82937,7 +82922,6 @@
 ||navi10.com^
 ||navi10.ru^
 ||navi100.com^
-||navi11.ru^
 ||navi12.com^
 ||navi15.ru^
 ||navi18.com^
@@ -84891,6 +84875,7 @@
 ||nnside.us.to^
 ||nnvjbb.xyz^
 ||nnvkh.com^
+||nnxfiqgqdsoywwa.com^
 ||nnxxjjhcwdfsbsa.xyz^
 ||nnzf1.cc^
 ||no-bull.fr^
@@ -90022,7 +90007,6 @@
 ||panazan.ro^
 ||pancak-e-swap.com^
 ||pancakedusteradmirable.com^
-||pancakeswap-v2.us^
 ||pancakeswaps.vip^
 ||pancet.top^
 ||pancowatch.shop^
@@ -91048,6 +91032,7 @@
 ||pbxcloudeservices.com^
 ||pbxphonenetwork.com^
 ||pbxsources.com^
+||pbyfdgnh.com^
 ||pc-ads.com^
 ||pc-fix-cleaner.com^
 ||pc-games.de^
@@ -91612,6 +91597,7 @@
 ||perped.com^
 ||perpetrateabsolute.com^
 ||perpetratejewels.com^
+||perpetraterummage.com^
 ||perpetualcod.com^
 ||perpetualpail.com^
 ||perr.l-agent.me^
@@ -98052,6 +98038,7 @@
 ||quizzicalpartner.com^
 ||quizzicalzephyr.com^
 ||qujishu.com^
+||qujptcqr.com^
 ||qumagee.com^
 ||qummafsivff.com^
 ||qundf.xyz^
@@ -103899,7 +103886,6 @@
 ||santanderstore.com^
 ||santarellano.com^
 ||santavita.com.br^
-||sante-a-jour.fr^
 ||sante-clair.fr^
 ||sante-connect.fr^
 ||sante-en-ligne.fr^
@@ -103990,7 +103976,6 @@
 ||sarinfalun.com^
 ||saritsaini.com^
 ||sarktur.com^
-||sarodesdonnot.com^
 ||sarrowgrivois.com^
 ||sars-goa.top^
 ||sars-gok.top^
@@ -104940,7 +104925,6 @@
 ||sealine.youku.com^
 ||sealingshop.click^
 ||sealinstalment.com^
-||seallysl.site^
 ||sealthatleak.com^
 ||seamallcrystal.com^
 ||seamanphaseoverhear.com^
@@ -107568,9 +107552,7 @@
 ||shophq.online^
 ||shophungakira.com^
 ||shopiastore.com^
-||shopify-dl.shop^
 ||shopify-fast-tags.deliverr.com^
-||shopify-mg.shop^
 ||shopigo.fr^
 ||shopingparty.com^
 ||shopinquick.com^
@@ -111870,6 +111852,7 @@
 ||stagecoachonline.com^
 ||stagecrar.cfd^
 ||stagepopkek.com^
+||stagerydialing.shop^
 ||stageseshoals.com^
 ||stagestrong.com^
 ||stagetruck.co.za^
@@ -117072,7 +117055,6 @@
 ||telegam.net^
 ||telegam.online^
 ||telegam.top^
-||telegarm.lsgfdgghhfgg.cyou^
 ||telegcpcn.work^
 ||telegcpem.work^
 ||telegczmn.club^
@@ -127599,6 +127581,7 @@
 ||vireolive.info^
 ||vires-numeris.co.uk^
 ||virfx.net^
+||virgalocust.shop^
 ||virgenmobile.co.cc^
 ||virgiloo.it^
 ||virgindisguisearguments.com^
@@ -131847,7 +131830,6 @@
 ||wpushorg.com^
 ||wpushsdk.com^
 ||wqegi8.skqkkdm.cn^
-||wqffggsdfdg.top^
 ||wqhatsapp.com^
 ||wqjzajr.com^
 ||wqmobile.com^
