@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 15JAN25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 17JAN25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -12782,6 +12782,7 @@ event-api.reverb.com
 event.boozallen.com
 eventbus.intuit.com
 event.clubcorp.com
+eventcollector.mcf-prod.a.intuit.com
 event-collector.moviesanywhere.com
 event-collector.prd.data.s.joyn.de
 event.collector.scopely.io
@@ -41431,7 +41432,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 15JAN25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 17JAN25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
