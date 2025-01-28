@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 24JAN25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 27JAN25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -5208,6 +5208,7 @@ analytics.getshogun.com
 analytics.gewaterheater.com
 analytics.glance.inmobi.com
 analytics.global.sky.com
+analytics.gokwik.co
 analytics.gooogol.com
 analytics.greenmountain.com
 analytics.greenmountainenergy.com
@@ -26591,6 +26592,7 @@ rtpmqv.smakon.jp
 rt.prnewswire.com
 rttkpr.bidolubaski.com
 rtvision.actonservice.com
+rt.whitebridge.ai
 rtxlni.doclasse.com
 rtxpx-a.akamaihd.net
 ruddycast.com
@@ -28389,6 +28391,7 @@ sharppatch.com
 sh.b.inhaabit.com
 s.hdsupplysolutions.com
 sheeta.nrj-play.fr
+sheideal.com
 shelbypublishing.actonservice.com
 shell-recharge.tupinambaenergia.com.br
 sheregesh-io.traveler.today
@@ -41443,7 +41446,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 24JAN25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 27JAN25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
@@ -44558,7 +44561,6 @@ onlinerewardcenter.com
 onscroll.com
 onthe.io
 open.oneplus.net
-open.spotify.com
 openad.infobel.com
 openad.net
 openad.tf1.fr
