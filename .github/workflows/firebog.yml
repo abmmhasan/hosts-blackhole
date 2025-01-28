@@ -16,14 +16,14 @@ jobs:
           token: ${{ secrets.PAT }}
       - name: Collect latest hosts file
         run: |
-          (wget -qO- "https://v.firebog.net/hosts/static/w3kbl.txt"; echo) > suspicious
-          (wget -qO- "https://v.firebog.net/hosts/AdguardDNS.txt"; echo) > ads
-          (wget -qO- "https://v.firebog.net/hosts/Admiral.txt"; echo) >> ads
-          (wget -qO- "https://v.firebog.net/hosts/Easylist.txt"; echo) >> ads
-          (wget -qO- "https://v.firebog.net/hosts/Easyprivacy.txt"; echo) > trackers
-          (wget -qO- "https://v.firebog.net/hosts/Prigent-Ads.txt"; echo) >> trackers
-          (wget -qO- "https://v.firebog.net/hosts/RPiList-Malware.txt"; echo) > malicious
-          (wget -qO- "https://v.firebog.net/hosts/RPiList-Phishing.txt"; echo) >> malicious
+          (wget -qO- "https://v.firebog.net/hosts/static/w3kbl.txt"; echo) > ./hosts/firebog/suspicious
+          (wget -qO- "https://v.firebog.net/hosts/AdguardDNS.txt"; echo) > ./hosts/firebog/ads
+          (wget -qO- "https://v.firebog.net/hosts/Admiral.txt"; echo) >> ./hosts/firebog/ads
+          (wget -qO- "https://v.firebog.net/hosts/Easylist.txt"; echo) >> ./hosts/firebog/ads
+          (wget -qO- "https://v.firebog.net/hosts/Easyprivacy.txt"; echo) > ./hosts/firebog/trackers
+          (wget -qO- "https://v.firebog.net/hosts/Prigent-Ads.txt"; echo) >> ./hosts/firebog/trackers
+          (wget -qO- "https://v.firebog.net/hosts/RPiList-Malware.txt"; echo) > ./hosts/firebog/malicious
+          (wget -qO- "https://v.firebog.net/hosts/RPiList-Phishing.txt"; echo) >> ./hosts/firebog/malicious
 
       - name: Commit
         run: |
