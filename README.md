@@ -1,6 +1,7 @@
 # Hosts Blackhole
 
-If you are using any custom ad-blocking servers at home (like Pi-Hole, AdGuard etc.) or any servers that accepts ABP style or Host file style block list you can use ad list provided here. 
+If you are using any custom ad-blocking servers at home (like Pi-Hole, AdGuard etc.) or any servers that accepts ABP
+style or Host file style block list you can use ad list provided here.
 Just copy the link address from **Copy Link** column and add to your gravity source.
 Also, it'd be great if you can set up schedular to update on daily basis.
 
@@ -50,6 +51,9 @@ repo.
 
 [![Firebog list collector](https://github.com/abmmhasan/hosts-blackhole/actions/workflows/firebog.yml/badge.svg)](https://github.com/abmmhasan/hosts-blackhole/actions/workflows/firebog.yml)
 
-| Type   | Format |                                      Blocking Type                                       |                                          Copy Link                                           |
-|:-------|:-------|:----------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|
-| Ticked | Host   | Suspicious + Ads + Tracking & Telemetry + Malicious + Other (Usually no false-positives) | [Link](https://raw.githubusercontent.com/abmmhasan/hosts-blackhole/master/hosts/firebog/aio) |
+| Type       | Format |    Blocking Type     |                                              Copy Link                                              |
+|:-----------|:-------|:--------------------:|:---------------------------------------------------------------------------------------------------:|
+| Suspicious | Host   |      Suspicious      | [Link](https://raw.githubusercontent.com/abmmhasan/hosts-blackhole/master/hosts/firebog/suspicious) |
+| Ads        | Host   |     Advertising      |    [Link](https://raw.githubusercontent.com/abmmhasan/hosts-blackhole/master/hosts/firebog/ads)     |
+| malicious  | Host   |      Malicious       | [Link](https://raw.githubusercontent.com/abmmhasan/hosts-blackhole/master/hosts/firebog/malicious)  |
+| trackers   | Host   | Tracking & Telemetry |  [Link](https://raw.githubusercontent.com/abmmhasan/hosts-blackhole/master/hosts/firebog/trackers)  |
