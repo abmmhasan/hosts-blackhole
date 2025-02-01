@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 29JAN25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 31JAN25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -41448,7 +41448,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 29JAN25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 31JAN25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
@@ -43820,7 +43820,6 @@ go.e2language.com
 go.flx1.com
 go.jc.fm
 go.link
-go.microsoft.com
 go.nextiva.com
 go.nordlocker.net
 go.nordvpn.net
