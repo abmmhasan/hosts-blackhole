@@ -7,7 +7,7 @@ Also, it'd be great if you can set up schedular to update on daily basis.
 
 ## List of Hosts Files
 
-Currently, 16 different variants from 4 sources are provided. All the file links, are direct file link to this Github
+Currently, 19 different variants from 4 sources are provided. All the file links, are direct file link to this Github
 repo.
 > Files are collected from different sources on daily basis.
 
