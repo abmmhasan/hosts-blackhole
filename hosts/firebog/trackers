@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 05FEB25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 07FEB25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -7573,6 +7573,7 @@ bmwebm.org
 b.mynewplace.com
 bmyudk.clarins.de
 bmzuyj.nifty.com
+b.nativendo.de
 bnc.autopass.xyz
 bnc.chewchunks.com
 bnc.citylink.ro
@@ -7952,6 +7953,7 @@ btn.listonic.com
 btn.rtl2.de
 b.todaytix.com
 btptod.aerzteblatt.de
+b.trueanthem.com
 btstats.benakt.com
 btstats.devtribu.fr
 bttmkj.diesel.com
@@ -13103,6 +13105,7 @@ fairfeeling.com
 fairiesbranch.com
 fairygaze.com
 fairytaleflame.com
+faithrowold.com
 fal2.carrefour-banque.fr
 fallaciousfifth.com
 falsefeet.com
@@ -41451,7 +41454,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 05FEB25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 07FEB25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
