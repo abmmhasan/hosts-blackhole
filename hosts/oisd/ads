@@ -1,10 +1,10 @@
 [Adblock Plus]
-! Version: 202502090110
+! Version: 202502090911
 ! Title: oisd small
 ! Description: Block. Don't break.
 ! Syntax: Adblock Plus Filter List
 ! Entries: 44166
-! Last modified: 2025-02-09T01:10:03+0000
+! Last modified: 2025-02-09T09:11:39+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -15042,6 +15042,7 @@
 ||doubleclick-cn.net^
 ||doubleclick.ctfile.com^
 ||doubleclick.de^
+||doubleclick.host^
 ||doubleclick.ne.jp^
 ||doublemax.net^
 ||doublepimp.com^
@@ -18432,7 +18433,6 @@
 ||gae.karte.io^
 ||gagdungeon.com^
 ||gagebonus.com^
-||gagepicaras.com^
 ||gagheroinintact.com^
 ||gaghygienetheir.com^
 ||gaietyexhalerucksack.com^
@@ -20030,7 +20030,6 @@
 ||harvester.cms.markiza.sk^
 ||harvester.hbpl.co.uk^
 ||harvester.hnonline.sk^
-||hasdarot.info^
 ||hasdrs.com^
 ||hash-hash-tag.com^
 ||hashcoin.co^
@@ -38528,6 +38527,7 @@
 ||tmserverside.mango.com^
 ||tmska.com^
 ||tmulppw.com^
+||tmvirr.icu^
 ||tmztcfp.com^
 ||tn.porngo.tube^
 ||tnaczwecikco.online^
@@ -40151,6 +40151,7 @@
 ||udeias.xyz^
 ||udgrbq.malwarebytes.com^
 ||udiab1.jianshu.com^
+||udinmat.top^
 ||udinugoo.com^
 ||udkpcc.xyz^
 ||udmserve.net^
@@ -41933,7 +41934,6 @@
 ||webp2p.letv.com^
 ||webpinp.com^
 ||webpixel.smartmeapp.com^
-||webpsts.com^
 ||webpush.reachyield.com^
 ||webpush.resultsmedia.com^
 ||webpush.vn^
