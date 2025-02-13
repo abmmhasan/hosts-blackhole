@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 10FEB25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 12FEB25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -16998,6 +16998,7 @@ international.wandw.ac.nz
 internet.degoo.com
 interworks.cloud.actonservice.com
 intg.snapchat.com
+in.treasuredata.com
 int-shares.ri.la
 intuitvisitorid.api.intuit.com
 in.upipr.co
@@ -32904,6 +32905,7 @@ sswmetrics.firstair.ca
 sswmetrics.omanair.com
 sswmetrics.philippineairlines.com
 sswmetrics.sabre.com
+ss.woodupp.pl
 ssy7.destinia.com.ua
 st1.lg.avendrealouer.fr
 st-a8.tscubic.com
@@ -41454,7 +41456,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 10FEB25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 12FEB25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
