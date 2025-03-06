@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 03MAR25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 05MAR25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -23747,7 +23747,6 @@ nl-go.experian.com
 nlgzhd.yoox.com
 nljjem.honeys-onlineshop.com
 nl-nl.coloplastcare.com
-nlog.naver.com
 nlp-japan.life-and-mind.com
 nltihf.fashiondays.ro
 nltzqx.autodoc.co.uk
@@ -33768,6 +33767,7 @@ stats.sebastiangale.ca
 stats.sec.telefonica.com
 stats.selectam.io
 stats.sendngnt.com
+stats.senty.com.au
 stats.servicedesignjobs.com
 stats.seva.rocks
 stats.sexemodel.com
@@ -38764,6 +38764,7 @@ tuvevx.agent-sana.com
 t.valcyte.com
 tvcoag.brw.pl
 t.veranstaltungsticket-bahn.de
+tver-metrics.streaks.jp
 t.villanova.com
 t.virginiasports.com
 tvkfms.nta.co.jp
@@ -41465,7 +41466,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 03MAR25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 05MAR25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
