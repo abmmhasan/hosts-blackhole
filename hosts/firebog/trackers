@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 07MAR25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 10MAR25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -7250,7 +7250,6 @@ battlenet.openapp.link
 bavvgo.zingat.com
 bawdybalance.com
 bawdybeast.com
-baxter.olx.org
 bayshoresystems.actonservice.com
 bazlny.homepal.it
 bbagnw.sedaily.com
@@ -35229,6 +35228,7 @@ telemetry.stryker.com
 telemetry.stytch.com
 telemetry.tableausoftware.com
 telemetry.tradingview.com
+telemetry.transcend.io
 telemetry.vtex.com
 telemetry.webasto.com
 telem.sre.gopuff.com
@@ -36142,7 +36142,6 @@ tracker.myyschool.xyz
 tracker.nbcuas.com
 tracker.nitropay.com
 tracker.nocodelytics.com
-tracker.novage.com.ua
 tracker.prod.ams3.k8s.hyperia.sk
 tracker.prom.ua
 tracker.providence.org
@@ -41468,7 +41467,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 07MAR25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 10MAR25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
