@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 26MAR25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 28MAR25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -8331,7 +8331,6 @@ cdns.brsrvr.com
 cdn.usefathom.com
 cdnwidget.com
 cdp.cifinancial.com
-cdp.yna.co.kr
 cdrive.compellent.com
 cdtm.cdiscount.com
 ceciliavenus.com
@@ -12713,6 +12712,7 @@ esqjac.costakreuzfahrten.de
 esqxrp.bonprix-fl.be
 esri.nl.actonservice.com
 es-sa.siemensplmevents.com
+essayspin.com
 es.sharpmarketing.eu
 essmnx.edreams.ch
 estadisticas.lanacion.com.ar
@@ -19453,6 +19453,7 @@ luumhi.whatonearthcatalog.com
 luuonz.motoblouz.com
 l.uvcr.me
 luwzem.skala.nl
+luxformula.com
 luzfpa.dltviaggi.it
 lv6od3a4sz12.www.logology.co
 lvidqa.unisportstore.de
@@ -25418,6 +25419,7 @@ podbooth.martela.com
 podbooth.martela.no
 podbooth.martela.se
 podiumpresto.com
+podname.com
 pod.spoti.fi
 poemprompt.com
 poeticpackage.com
@@ -25977,7 +25979,6 @@ quaintborder.com
 quaintcan.com
 quaintlake.com
 qualitas-app.hotdoc.com.au
-quantserve.com
 quantumlagoon.com
 quantumshine.com
 quarterbean.com
@@ -41572,7 +41573,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 26MAR25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 28MAR25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
