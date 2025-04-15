@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 11APR25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 14APR25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -7284,6 +7284,7 @@ b.chme.io
 bcigeg.pishposhbaby.com
 bcigfr.www.uoc.edu
 bclicks.lyst.com
+b.clipkit.co
 bc.marfeelcache.com
 bc.nhk.jp
 bcob.charlotte.edu
@@ -7457,6 +7458,7 @@ bilingualgeek.com
 billowybead.com
 billowybelief.com
 bi.medscape.com
+bi-metrics.aramuz.net
 biminibliss.rwbimini.com
 binarycrest.com
 binocule21c.merriam-webster.com
@@ -11511,6 +11513,7 @@ dztatn.soulberry.jp
 dzuthv.fahrrad-xxl.de
 dzwqfq.alpitour.it
 e035.pandasuite.io
+e045f561.b-cdn.net
 e10.verticurl.com
 e1e.io
 e246.pandasuite.io
@@ -14834,6 +14837,7 @@ gsbygc.clarks.eu
 gsftuy.nutripure.fr
 gsg9.carrefour-banque.fr
 g.siliconweek.es
+gsitrix.com
 gslive.edm.globalsources.com
 gsmatch.edm.globalsources.com
 gsmqez.xcite.com
@@ -19382,6 +19386,7 @@ lrhungary.wolterskluwer.com
 lrhyty.weeronline.nl
 lritaly.wolterskluwer.com
 lrjnbf.sabon.co.jp
+lrkt-in.com
 lrnetherlands.wolterskluwer.com
 l.rovo.co
 lrp7.carrefour-banque.fr
@@ -25636,6 +25641,7 @@ profiling.plannja.com
 profiling.ruukki.com
 profit.edc.ca
 profitrumour.com
+proftrafficcounter.com
 profusesupport.com
 progmxs.com
 programmes-skema.skema-bs.fr
@@ -38915,6 +38921,7 @@ twjobq.sixt.fr
 twjobq.sixt.nl
 twkbui.mansion-review.jp
 twoeej.carrefour.fr
+tw.reppublika.com
 twsdne.petenkoiratarvike.com
 tw.spiriteq.com
 t.wsucougars.com
@@ -38987,6 +38994,7 @@ ubmwua.maisonsetappartements.fr
 ubpekn.sivillage.com
 ubqjbd.daviddonahue.com
 ubrihx.allbirds.jp
+ubt-sgp.travix.com
 ubuyanalytics.ubuy.com
 ubvsjh.pointtown.com
 ubyjor.distrelec.ch
@@ -39097,6 +39105,7 @@ ultravalid.com
 ultund.misterspex.nl
 ulutlv.esprit.fr
 umami.aigenerations.net
+umami.heroku.uk
 umami.wakarimasen.moe
 umazvs.raybiotech.com
 um.contentstudio.io
@@ -40249,6 +40258,7 @@ web.novunapersonalfinance.co.uk
 web.online.monnalisa.com
 web.orionpharma.com
 webpixel.smartmeapp.com
+webpushstat.api.engagelab.cc
 web.redazione.milanofinanza.it
 websdk.appsflyer.com
 websdkmetrics.blackrock.com
@@ -41911,7 +41921,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 11APR25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 14APR25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
