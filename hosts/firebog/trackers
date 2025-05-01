@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 28APR25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 30APR25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -9420,6 +9420,7 @@ costwinner.com
 cotemaison.np6.com
 counmg.greatvaluevacations.com
 count5.pconline.com.cn
+count.all.biz
 count.asnetworks.de
 count.bank99.at
 count.candou.com
@@ -15392,6 +15393,7 @@ hxiabp.colins.com.tr
 hxmssa.wordans.nl
 hxnxxq.tophifi.pl
 hycywj.akkushop.de
+hydraconcept.com
 hydro-ma-proxy.akamaized.net
 hyeorg.gmarket.co.kr
 hygiena.actonservice.com
@@ -26415,6 +26417,7 @@ repdata.yorkdispatch.com
 repeatsweater.com
 replaceroute.com
 reply.osv.com
+report.23video.com
 report.appmetrica.yandex.net.iberostar.com
 reportic.app
 reporting-api.gannettinnovation.com
@@ -26788,6 +26791,7 @@ rum-ingress-coralogix.com
 rum.ingress.layer0.co
 rum.layer0.co
 rum.marquardmedia.hu
+rum.mauve.eu
 rum.perfops.net
 rumsey.actonservice.com
 rumstat.cdnvideo.ru
@@ -28229,6 +28233,7 @@ segmentor.snowfox-ai.com
 se-go.experian.com
 segra.actonservice.com
 seg.sharethis.com
+s.eick.it
 sejdfu.coeur.de
 sekaopi.nocre.jp
 selectionship.com
@@ -34316,6 +34321,7 @@ stonechin.com
 st.onemazdausa.com
 stopstomach.com
 s.topya.com
+storage.lulu-row1.com
 storagetechnology.arrow.com
 storea8tracking.alc.co.jp
 store.echovisuals.com
@@ -34821,6 +34827,7 @@ t1.benefits.tops.co.th
 t1.discover.flashnews.com.au
 t1.stadiumgoods.com
 t1.trex.media
+t2.aboutyou.de
 t2.click.subway.com
 t2.hulu.com
 t2.t2b.click
@@ -34893,6 +34900,7 @@ tags.johnlewis.com
 tags.klove.com
 tags.master-perf-tools.com
 tags.op-palvelut.fi
+tags.pw.adn.cloud
 tags.soloway.ru
 tags.stepstone.com
 tag.statshop.fr
@@ -39860,6 +39868,7 @@ views.sikerlogistics.com
 views.sikerproducts.com
 views.wioks.com
 vikingclan.kano.link
+vilenexus.com
 vip.agentteam.com.au
 vip.german.ni.com
 vip.gophersport.com
@@ -40193,6 +40202,7 @@ webanalytics.logitechg.com
 webanalytics.logitechg.com.cn
 webanalytics.proff.no
 webanalyticsssl.websense.com
+webapi.3cx.com
 webapp.e-post.smn.no
 web.autobodytoolmart.com
 web.b2bimperialfashion.com
@@ -42007,7 +42017,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 28APR25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 30APR25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
