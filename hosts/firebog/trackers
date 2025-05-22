@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 19MAY25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 21MAY25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -5160,6 +5160,7 @@ analytics.faceitanalytics.com
 analytics.faprika.net
 analytics.fatmedia.io
 analytics.favcy.com
+analytics-fe.digital-cloud-prem.medallia.com
 analytics.ferguson.com
 analytics.firespring.com
 analytics.firstbankcardcenter.com
@@ -13750,7 +13751,6 @@ geoip.hmageo.com
 geoip.ifunny.co
 geoip.instiengage.com
 geoip.nekudo.com
-geoip.radio-canada.ca
 geolocation.forbes.com
 geolocation.outreach.com
 geo.mezr.com
@@ -27173,7 +27173,6 @@ sanl.six02.com
 sanmet.originenergy.com.au
 sa.oprah.com
 sapi.tremendous.com
-sapphire-api.target.com
 sappmetrics.sprint.com
 sa.reebok.co.uk
 sa.scorpion.co
@@ -31339,6 +31338,7 @@ smetrics.utech-polyurethane.com
 smetrics.utilityanalyticsweek.com
 smetrics.valumart.ca
 smetrics.vangraaf.com
+smetrics.vanguard.com
 smetrics.vans.com.au
 smetrics.vans.co.nz
 smetrics.variis.com
@@ -33583,6 +33583,7 @@ stats.photographer.com.au
 stats.pinoymusicstation.com
 stats.piplette.co
 stats.pitstone.co.uk
+stats.pixeldrain.com
 stats.plainsending.com
 stats.planxti.com
 stats.poesieundgenuss.com
@@ -41725,7 +41726,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 19MAY25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 21MAY25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
