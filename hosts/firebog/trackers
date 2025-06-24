@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 20JUN25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 23JUN25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -8532,6 +8532,7 @@ click.pockee.com
 click.quickenloansnow.com
 click.redditmail.com
 click.rollouki.com
+click.rypr.ru
 clicks2.hqo.co
 clicks.6thstreet.com
 clicks.burgerking.co.uk
@@ -17563,6 +17564,7 @@ kiqwal.autoscout24.es
 kiqwil.l-m.co.jp
 kirsrn.runway-webstore.com
 kistacity.viessmann.se
+kit22.com
 kitchen.juicer.cc
 kitesquirrel.com
 kitetuning.com
@@ -19101,6 +19103,7 @@ loudlunch.com
 loveeveryday.brighterkind.com
 lovelydrum.com
 loveseashore.com
+love.vidora.su
 lowercases.com
 lowermybills.actonsoftware.com
 lowgxl.yokumoku.jp
@@ -23955,6 +23958,7 @@ observe.metarouter.io
 observe-nexus.pointandplace.com
 observer.ip-label.net
 obseu.netgreencolumn.com
+obs.system1onesource.com
 obtfhl.bellemaison.jp
 oca.microsoft.com
 o.carmax.com
@@ -25582,6 +25586,7 @@ pt.legalstart.fr
 ptlpel.tui.at
 ptmcos.beginning.kr
 ptrenx.vidaxl.com.au
+p.tryretool.com
 ptsc.shoplocal.com
 ptw-i.actonservice.com
 p.typekit.net
@@ -35949,6 +35954,7 @@ tr.abo.cotemaison.fr
 traccoon.intellectsoft.net
 tr.account.np6.com
 tr.acd-comexpert.fr
+trace.bluemonkey.jp
 trace.insead.edu
 trace.qq.com
 tracer.autoscout24.ch
@@ -38947,6 +38953,7 @@ ulutlv.esprit.fr
 umami.aigenerations.net
 umami.askrella.de
 umami.heroku.uk
+umami.vidfast.pro
 umami.wakarimasen.moe
 umazvs.raybiotech.com
 um.contentstudio.io
@@ -41844,7 +41851,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 20JUN25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 23JUN25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
