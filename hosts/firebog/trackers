@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 27JUN25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 30JUN25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -5471,6 +5471,7 @@ analytics.thehartford.com
 analytics.theinstitutes.org
 analytics.themarketiq.com
 analytics.threedeepmarketing.com
+analytics.ticimax.cloud
 analytics.ticinolibero.ch
 analytics.tiktok.com
 analytics.tio.ch
@@ -24915,7 +24916,6 @@ photohints.com
 phpmyadmin.toolmonger.net.jumia.co.tz
 phpstat.cntcm.com.cn
 phsmobile.actonservice.com
-ph.thenextweb.com
 phvylw.beurer-shop.de
 phyins.actonservice.com
 physicstees.com
@@ -38956,7 +38956,9 @@ ultund.misterspex.nl
 ulutlv.esprit.fr
 umami.aigenerations.net
 umami.askrella.de
+umami.flixer.su
 umami.heroku.uk
+umami.spencerdevs.xyz
 umami.vidfast.pro
 umami.wakarimasen.moe
 umazvs.raybiotech.com
