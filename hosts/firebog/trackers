@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 30JUN25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 02JUL25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -5238,6 +5238,7 @@ analytics.kellyservices.com
 analytics.kerns.co
 analytics.kkb.com.tr
 analytics.klickly.com
+analytics.komiku.org
 analytics.kongregate.io
 analytics.laregione.ch
 analytics.lasegunda.ecn.cl
@@ -5588,7 +5589,6 @@ analytic.underarmour.com
 analyt.ir
 analyzecorona.com
 analyzer2.fc2.com
-analyzer51.fc2.com
 analyzer.fc2.com
 anapp.adobe.com
 ana.skypemeet.net
@@ -16921,6 +16921,7 @@ internalcondition.com
 internal-e.posthog.com
 internal.hcltech.com
 internalsink.com
+internal-t.posthog.com
 international.edc.ca
 internationalpayments.americanexpress.com
 international.wandw.ac.nz
@@ -17635,6 +17636,7 @@ kpcyic.sportisimo.cz
 kpfvaq.schuhe.de
 kqchxa.denizbutik.com
 kqdqrj.traktorpool.de
+kqefj.clearstem.com
 kqhckf.outfits24.de
 kqkcoq.vidaxl.fr
 kqkydl.postel-deluxe.ru
@@ -34195,6 +34197,7 @@ stupidscene.com
 stupidsnake.com
 sturdysnail.com
 sturton-lation.com
+stw.extrem-down.zone
 st.wir-entdecken-bayern.de
 styles.hautelook.com
 stylishbuds.com
@@ -41858,7 +41861,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 30JUN25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 02JUL25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
