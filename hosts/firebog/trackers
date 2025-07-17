@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 14JUL25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 16JUL25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4660,6 +4660,7 @@ affiliate.couleur-labo.com
 affiliate.dietician-family.jp
 affiliate.htb-energy.co.jp
 affiliate.kgcshop.jp
+affiliate.kinguin.net
 affiliate.k-uno.co.jp
 affiliate.logitravel.com
 affiliate.ouchi.coop
@@ -5606,6 +5607,7 @@ anesthesiaos.actonservice.com
 anet.abphotos.link
 angebote.plex.com
 anijjm.winkelstraat.nl
+animalcoder.com
 animaux.oworld.fr
 anl.footlocker.com
 anmeldung.promatis.ch
@@ -12956,6 +12958,7 @@ experience.rsm.com.au
 experiences.cibc.com
 experiences.simplii.com
 experiencia.coopecaja.fi.cr
+experiments.parsely.com
 experiments.sparanoid.net
 expertise.logarithmicsolutions.com
 experts.actonservice.com
@@ -25432,6 +25435,7 @@ premiumapp.byjus.com
 prenesi-mojm.mercator.si
 prepareplanes.com
 presetrabbits.com
+presscoder.com
 prettylearning.com
 preview.fi-institutional.com.au
 previousplayground.com
@@ -36820,6 +36824,7 @@ tracking.umms.org
 tracking.unisabana.edu.co
 tracking.univtec.com
 tracking.unrealengine.com
+tracking.upfluence.co
 tracking.usj.es
 tracking.utas.edu.au
 tracking.ventingdirect.com
@@ -37493,6 +37498,7 @@ tr.etude.sncd.org
 tr.eulerhermes.com
 tr.ev001.net
 tr.evenements.inpi.fr
+tr-experiments.parsely.com
 tr.expresofferte.be
 tr.fg3p.espmp-cufr.net
 tr.fidalformation.pro
@@ -41888,7 +41894,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 14JUL25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 16JUL25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
