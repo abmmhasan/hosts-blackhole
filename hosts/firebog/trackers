@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 08AUG25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 11AUG25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -36667,6 +36667,7 @@ tracking.ntl.no
 tracking.nymphomaneladies.de
 tracking.ocr.ca
 tracking.oe24.at
+tracking.offerista.com
 tracking.ohiohealth.com
 tracking.oldnational.com
 tracking.olx-st.com
@@ -38668,6 +38669,7 @@ tr.zojh.espmp-aluk.net
 t-s.actemra.com
 t-s.activase.com
 t-s.allergicasthma.com
+ts-analysis.shoalter.com
 tsa.taxslayer.com
 t-s.avastin.com
 t-s.avastin-hcp.com
@@ -38927,6 +38929,7 @@ ucmetrics.unicreditgroup.eu
 ucmetrics.unicredit.it
 ucounter.ucoz.net
 ucppeo.silux.hr
+uct.service.usercentrics.eu
 uc.xddi.ru
 udblog.huya.com
 udgrbq.malwarebytes.com
@@ -41931,7 +41934,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 08AUG25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 11AUG25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
