@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 11AUG25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 13AUG25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -5530,6 +5530,7 @@ analytics.villagehouse.jp
 analytics.virginaustralia.com
 analytics.virginmobileusa.com
 analytics.visible.com
+analytics.vitalsignstracker.com
 analytics.viture.dev
 analytics.vixcloud.co
 analytics.vortexscans.com
@@ -13076,6 +13077,7 @@ fairiesbranch.com
 fairygaze.com
 fairytaleflame.com
 faithrowold.com
+fakedisguise.com
 fakexa-post.mno.link
 fal2.carrefour-banque.fr
 fallaciousfifth.com
@@ -15026,6 +15028,7 @@ hipkqt.contorion.de
 hirsung.de
 histais.com
 historicalbeam.com
+historytrade.com
 hi.streetworkoutlist.com
 hi.syllable.ai
 hitachi-hightech-as.actonservice.com
@@ -17752,6 +17755,7 @@ labs.verticurl.com
 lacinfo.motorolasolutions.com
 lackadaisicalkite.com
 ladghy.jcb.co.jp
+ladsp.com
 ladxxr.sonovente.com
 la.idgenterprise.com
 lakerspreferences.gleague.nba.com
@@ -18992,6 +18996,7 @@ lnk.welthee.com
 lnntnt.hsastore.com
 lntvby.banggood.com
 lnxfgm.party-calendar.net
+loadedhearts.com
 loader-cdn.azureedge.net
 load.nootiz.com
 loadsurprise.com
@@ -23045,6 +23050,7 @@ mi.miliboo.lu
 mimosamajor.com
 mindfulgem.com
 mindlessmark.com
+mineinvoice.com
 mine.nahnoji.cz
 minerad.com
 mini-site.larksuite-marketing.com
@@ -23570,12 +23576,14 @@ nd.nasdaqtech.nasdaq.com
 ndroyp.gettingpersonal.co.uk
 neaaom.ytn.co.kr
 n.earthlink.net
+neatbadger.com
 neathousepartners.actonservice.com
 neatrule.com
 neatshade.com
 nebulacrescent.com
 nebulajubilee.com
 nebulousamusement.com
+nebulousgarden.com
 nebulousquasar.com
 nebulousripple.com
 nedasco.actonservice.com
@@ -28420,6 +28428,7 @@ sharkskids.com
 sh.b.inhaabit.com
 shdid.me
 s.hdsupplysolutions.com
+sheargovernor.com
 sheeta.nrj-play.fr
 sheideal.com
 shelbypublishing.actonservice.com
@@ -35516,6 +35525,7 @@ t.huskers.com
 t.hypers.com.cn
 ti3av8k3ikwm.resume.gerardbosch.xyz
 ticketaunt.com
+ticketjolly.com
 ticketoffice.liberty.edu
 tickets.gs-warriors.com
 tickets.smu.edu
@@ -38551,6 +38561,7 @@ tr.sort.espmp-nifr.net
 tr.souscription.floa.fr
 tr.spain.plimsoll.es
 tr.sportswear.np6.com
+tr.ssp.bance.jp
 tr.standardadmin.org
 tr.strategie.gouv.fr
 tr.suedkurier.de
@@ -41934,7 +41945,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 11AUG25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 13AUG25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
