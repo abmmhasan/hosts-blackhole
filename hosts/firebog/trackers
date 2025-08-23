@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 20AUG25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 22AUG25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4547,6 +4547,8 @@ adspsp.com
 adstats.tencentmusic.com
 ads.tikpage.com
 adstk.io
+ads-tracking.beop.io
+ads-tracking.collectiveaudience.co
 ads-trk.vidible.tv
 ad.takasu.co.jp
 adtarget.barcainnovationhub.com
@@ -9265,7 +9267,6 @@ content.rightsourcemarketing.com
 content.sffirecu.org
 contents.pwc.com
 content.stage.mini.pix.style
-contents-tracking.beop.io
 content.tab.com.au
 content.tacticalma.com
 content.tatatelebusiness.com
@@ -14874,6 +14875,7 @@ hbaazk.bukalapak.com
 hbahrd.yogibo.jp
 hbbtv-track.prosieben.de
 hbbtv-track.prosiebensat1puls4.com
+hb.collectiveaudience.co
 hbfpvm.comolib.com
 hbiq.net
 hbo5.concours-pass.com
@@ -27368,6 +27370,7 @@ sc.nick.tv
 sc-nossl.speakeasy.net
 scnt.rambler.ru
 scode.randomhouse.com
+s.collectiveaudience.co
 s.columbiathreadneedle.ch
 s.columbiathreadneedle.co.uk
 s.columbiathreadneedle.hk
@@ -33872,6 +33875,7 @@ stats.toiletmap.org.uk
 stats.topofblogs.com
 stats.tou.tv
 stats.tradingacademy.com
+stats.traffective.cloud
 stats.training.fit
 stats.travelfodder.com
 stats.trenntoi.de
@@ -34480,6 +34484,7 @@ sweetslope.com
 s.wellandtribune.ca
 swellstocking.com
 s.wheels.ca
+swiftintro.com
 swim2000.actonservice.com
 swimfreely.com
 swingslip.com
@@ -41890,7 +41895,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 20AUG25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 22AUG25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
