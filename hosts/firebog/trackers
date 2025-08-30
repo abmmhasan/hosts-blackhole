@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 27AUG25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 29AUG25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -8026,6 +8026,7 @@ bvkuwv.muumuu-domain.com
 bvr.ast.snva.jp
 bvr.snva.jp
 bvubje.leboncoin.fr
+bwapi.bikerumor.com
 b.whee.ly
 bwj4.hrhibiza.com
 bwkpkx.projectxparis.com
@@ -8820,6 +8821,7 @@ collect.helsana-preprod.ch
 collect.hollisterco.com
 collect.igodigital.com
 collection.e-satisfaction.com
+collection.mola.tv
 collection.saga.co.uk
 collections.equifax.com
 collect.iteam-dress.com
@@ -23713,6 +23715,8 @@ niblewren.co
 nidays.austria.ni.com
 nidays.suisse.ni.com
 nidays.switzerland.ni.com
+nid.thesun.co.uk
+nid.thetimes.com
 niftygraphs.com
 niftyhospital.com
 niftyjelly.com
@@ -34860,7 +34864,6 @@ target.maxxia.com.au
 target.miaprova.com
 target.michaels.com
 target.microchip.com
-target.microsoft.com
 target.mirtesen.ru
 target.mixi.media
 target.monaco.pwc.fr
@@ -41907,7 +41910,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 27AUG25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 29AUG25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
