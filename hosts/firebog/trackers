@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 01SEP25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 08SEP25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -5149,6 +5149,7 @@ analytics.disney.go.com
 analytics.disneyinternational.com
 analytics.disneyplus.com
 analytics.dvidshub.net
+analytics.dv.socure.io
 analytics.edgekey.net
 analytics.egdata.app
 analytics.egernsund.com
@@ -5551,6 +5552,7 @@ analytics-wcms.joins.net
 analytics.webgains.io
 analytics.webpushr.com
 analytics.websolute.it
+analytics.webynize.com
 analytics.weldonowen.com
 analytics.wellington.com
 analytics.whostheboss.co.uk
@@ -9378,6 +9380,7 @@ count.bank99.at
 count.candou.com
 count.carrierzone.com
 count.darkreader.app
+counter1.fc2.com
 counter.1i.kz
 counter247.live
 counter2.blog.livedoor.com
@@ -10751,6 +10754,7 @@ dev.gldn.io
 dev.go.levelbank.com
 dev.gomi.do
 dev.got-it.link
+deviceinf.com
 devilishdinner.com
 dev-iradimed.actonservice.com
 dev-link.aira.io
@@ -13435,6 +13439,7 @@ fpadga.mcruises.ru
 fpapi.io
 fpaudience.com
 fpb8.esce.fr
+fp.bizjournals.com
 fpc.acpinternist.org
 fpc.acpjournals.org
 fpc.acponline.org
@@ -13488,6 +13493,7 @@ fpssl-monitor-dal.omniture.com
 fpt.inxinternational.com
 fptls2.com
 fptls3.com
+fptls4.com
 fptls.com
 fpt.microsoft.com
 fp-upload.dun.163.com
@@ -21174,6 +21180,7 @@ mc.webvisor.com
 mc.webvisor.org
 mc.yandex.com
 mc.yandex.ru
+mc.yango.com
 mczpco.darty.com
 mczqzk.yves-rocher.hu
 m.d11.io
@@ -23862,6 +23869,7 @@ nra.locktonaffinity.net
 nr-data.noelleeming.co.nz
 nrg.red-by-sfr.fr
 nrjcur.pomelofashion.com
+nr-js.imaios.com
 nr.noelleeming.co.nz
 nrpukcsgboqr0gz2o8.www.bolighub.dk
 nrquff.supurgemarket.com
@@ -24447,6 +24455,7 @@ optimisation.co-oplegalservices.co.uk
 optimisation.data.lloydsbankinggroup.com
 optimizely.techtarget.com
 optimize.mcafee.com
+optimizer.poxo.com
 optionen.hager.de
 optistats.ovh
 optis-world.actonservice.com
@@ -24526,6 +24535,7 @@ osvdtm.theshopyohjiyamamoto.jp
 os.vudu.com
 o.swisscom.ch
 otel-collector.lenta.tech
+otel-mobile.doordash.com
 othanasis.openapp.link
 othisf.tagomago.pl
 otisxx.sullyn.com
@@ -25480,6 +25490,7 @@ privacy.outdoorsg.com
 private.cervicalcancer-risk.com
 privateclient.hubinternational.com
 private.roche.com
+private.wccftech.com
 prkvlr.camper.com
 pr.nss.netease.com
 prnzxf.glamira.se
@@ -25743,6 +25754,7 @@ q88.actonservice.com
 qaapp.forever21.com
 qa-branch-app.liketoknow.it
 qa-brc.emails.rakuten.com
+qa-events-schema.viacom.tech
 qaghzg.planteon.pl
 qa-go.ebat.es
 qago.qiagen.com
@@ -26625,6 +26637,7 @@ rum.azioncdn.net
 rum.azion.com
 rum.condenastdigital.com
 rum.corewebvitals.io
+rum.cronitor.io
 rum.hlx.page
 rum-ingress-coralogix.com
 rum.ingress.layer0.co
@@ -33064,6 +33077,7 @@ stat.jogaszvilag.hu
 stat.juridicas.com
 stat.jusnetkarnovgroup.pt
 stat.kaago.com
+stat.khanate.pro
 stat.kiwibank.co.nz
 stat.kkpp.cz
 stat.kleos.cz
@@ -33532,6 +33546,7 @@ stats.lippeshirts.de
 stats.literacysomerset.org
 stats.literaturkreis.online
 stats.lmdsp.com
+stats.lmofficial.to
 stats.locallabs.com
 stats.localmetravel.com
 stats.lord.io
@@ -35380,6 +35395,7 @@ teyourmarketing.trungaleegan.com
 teyvmb.moniquelhuillier.com
 tf.360.cn
 t.fabulousfox.com
+t.factorform.com
 t.fairparkdallas.com
 tfdtpa.dot-st.com
 t.fermion.fi
@@ -35422,6 +35438,7 @@ t.gohuskies.com
 t.gojacks.com
 t.golobos.com
 t.gomocs.com
+t.goodchop.com
 t.gopack.com
 t.gophersports.com
 t.gopoly.com
@@ -35460,6 +35477,7 @@ thecea.actonservice.com
 thefishstops.com
 thefontzone.com
 thejavalane.com
+t.hellowork.com
 themangotea.com
 theme.echovisuals.com
 themepicker.com
@@ -35802,6 +35820,7 @@ tms.eharmony.ca
 tms.fmm.io
 tms.hft.everyplate.com
 tms.hft.factor75.com
+tms.hft.goodchop.com
 tms.hft.greenchef.com
 tms.hft.hellofresh.com
 tms-st.cdn.ngenix.net
@@ -35956,6 +35975,7 @@ tp.ottoversand.at
 t.poyry.com
 t.pplcenter.com
 tp.quelle.de
+t.prageru.com
 t.prod1.discover.binge.com.au
 tp.sheego.de
 tp.sieh-an.at
