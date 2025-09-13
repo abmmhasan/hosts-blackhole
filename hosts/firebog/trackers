@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 10SEP25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 12SEP25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -11865,6 +11865,7 @@ e.kc-education.com
 ekfwof.finnishdesignshop.fi
 eklexu.kibuba.com
 ekphpa.perfectlypriscilla.com
+ek-tracker.ekitan.com
 elasticchange.com
 elastoproxy.actonservice.com
 elconfidencialdigital.actonservice.com
@@ -22532,6 +22533,7 @@ metrics.radissonhotels.com
 metrics.rainbowmagic.co.uk
 metrics.ralphlauren.com
 metrics.ralphlauren.fr
+metrics.rapidedge.io
 metrics.rarediseasesignup.com
 metrics.rbcgam.com
 metrics.rbcgma.com
@@ -24457,7 +24459,6 @@ optimisation.co-oplegalservices.co.uk
 optimisation.data.lloydsbankinggroup.com
 optimizely.techtarget.com
 optimize.mcafee.com
-optimizer.poxo.com
 optionen.hager.de
 optistats.ovh
 optis-world.actonservice.com
@@ -35476,6 +35477,7 @@ thebasiccompanies.actonservice.com
 thebdx.actonservice.com
 thebigvan.com
 thecea.actonservice.com
+thecrazychili.com
 thefishstops.com
 thefontzone.com
 thejavalane.com
@@ -37056,6 +37058,7 @@ tr.adhesion.ircom-laverriere.com
 traffic.acwebconnecting.com
 trafficfuelpixel.s3-us-west-2.amazonaws.com
 traffic.hostedstatus.page
+trafficid.brandwell.ai
 traffic.prod.cobaltgroup.com
 traffic.shareaholic.com
 traffic.taktikal.is
@@ -37778,6 +37781,7 @@ trk.blume2000.de
 trk.bona.nl
 trk.bonella.com.ec
 trk-branch.balinea.com
+trk-brevinate.com
 trk.broomwade.com
 trk.brummelandbrown.com
 trk.business.westernunion.at
@@ -41943,7 +41947,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 10SEP25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 12SEP25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
