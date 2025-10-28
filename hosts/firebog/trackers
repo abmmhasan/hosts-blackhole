@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 24OCT25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 27OCT25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -7260,6 +7260,7 @@ basilfish.com
 basketballbelieve.com
 basket.mondo.link
 baskettexture.com
+bastingart.com
 basuey.toyscenter.it
 bat.bing.com
 bat.bing.net
@@ -11439,7 +11440,6 @@ dujgiq.trendhim.pl
 dumpster.cam4.com
 d.uni-medias.com
 dup.baidustatic.com
-duplexer.wix.com
 duprelogistics.actonservice.com
 duqqrl.jefchaussures.com
 durchsichtig.xyz
@@ -17330,6 +17330,7 @@ jensenhughes.actonservice.com
 jetlinx.actonservice.com
 jetskiscovers.com
 jewelryforest.com
+jewelrysprings.com
 jeyttn.snipes.com
 jfapiprod.optimonk.com
 jfltzz.riu.com
@@ -25752,6 +25753,7 @@ pumpedpurpose.com
 pumpkin.abine.com
 punyplant.com
 puppetcorp.com
+puppiesart.com
 puppytooth.com
 pu.pretunique.fr
 purple-hit.com
@@ -42050,7 +42052,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 24OCT25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 27OCT25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
