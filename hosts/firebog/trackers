@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 31OCT25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 01NOV25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -111,6 +111,7 @@
 3p-geo.yahoo.com
 3plworldwide.actonservice.com
 3p-udc.yahoo.com
+3rdspacetech.com
 3skickasurf.tre.se
 3wn3w3skxpym.round.t3.gg
 40caidaylimpia.catzolab.net
@@ -8033,6 +8034,7 @@ business-pages.edfenergy.com
 businessprocess.ricoh.de
 business.royal-cars.com
 business.samsungusa.com
+businessupdater.com
 business.vodafone.com
 business.vodafone.co.nz
 busrol.st-eustachenissan.com
@@ -9815,6 +9817,7 @@ cybba.solutions
 cyber.boozallen.com
 cyber-pages.att.com
 cyber-tracking.att.com
+cyclinghere.com
 cyclopsdial.com
 cyeabs.luxyhair.com
 cyf9.destinia.cl
@@ -13135,6 +13138,7 @@ fal2.carrefour-banque.fr
 fallaciousfifth.com
 fallback.attntags.com
 fallback.emtag.net
+fallingshoals.com
 falseframe.com
 falsesight.com
 familiarrod.com
@@ -13533,6 +13537,7 @@ fpida.w-wing.jp
 fpida.yue-japan.com
 f.pie.org
 fpjscdn.net
+fp.kakaku.com
 fp.kalevavakuutus.fi
 fp.mandatum.fi
 fp.mandatumlife.fi
@@ -31865,6 +31870,7 @@ snalytics.travelinsurance.ca
 snappyreport.com
 snapsgate.com
 snapshotapp.progressive.com
+snazzypoodle.com
 snbwyi.heine.at
 snd.freshstartnews.com
 sneakwind.com
@@ -35512,6 +35518,7 @@ tf.360.cn
 t.fabulousfox.com
 t.factorform.com
 t.fairparkdallas.com
+t.fastcmp.com
 tfdtpa.dot-st.com
 t.fermion.fi
 t.festo.com
@@ -35662,6 +35669,7 @@ tidy.intel.fr
 tidy.intel.in
 tidy.intel.la
 tidymitten.com
+tidysprite.com
 tif.ionos.com
 tightpowder.com
 tiglck.technopolis.bg
@@ -42070,7 +42078,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 31OCT25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 01NOV25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
