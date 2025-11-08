@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 05NOV25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 07NOV25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4075,6 +4075,7 @@ abracon.actonservice.com
 absentairport.com
 absinfo.eagle.org
 absoft.actonservice.com
+absolutering.com
 absorbingband.com
 absorbingprison.com
 abs.proxistore.com
@@ -8393,6 +8394,7 @@ cgsisl.owllabs.com
 cgwebmetrics.capgroup.com
 ch0p.darty.com
 chademocharge.com
+chaindisc.com
 chaireggnog.com
 chairscrack.com
 chairsdonkey.com
@@ -14572,6 +14574,7 @@ go-response.thermofisher.com
 go.rex-bac-t.com
 gorgeousedge.com
 go.ridgid.emerson.com
+gorillapage.com
 go.riosalado.edu
 go.robertsonbuildings.com
 go.rochesterknighthawks.com
@@ -18805,6 +18808,7 @@ links.sudokuplus.net
 links.swazzen.com
 links.sweet.io
 link.stabilitas.io
+linkstable.com
 link.staff.notab.com
 link.stage.easy.me
 link-staging.bestest.io
@@ -26023,6 +26027,7 @@ quidel.actonservice.com
 quietknowledge.com
 quillkick.com
 quiltquick.com
+quiltruler.com
 quinceimaging.actonservice.com
 quirklogic.actonservice.com
 quirkybliss.com
@@ -26089,6 +26094,7 @@ racemanager-app.sapsailing.com
 rackforstorage.com
 rac.ruutu.fi
 radar.imgsmail.ru
+radexports.com
 radiantcanopy.com
 radiantlullaby.com
 radiateprose.com
@@ -35612,6 +35618,7 @@ t.hellowork.com
 themangotea.com
 theme.echovisuals.com
 themepicker.com
+thepixelpioneer.com
 thepowerstones.com
 thequickbooksteam.intuit.ca
 therapeuticcars.com
@@ -42086,7 +42093,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 05NOV25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 07NOV25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
