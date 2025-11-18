@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 14NOV25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 17NOV25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -6830,6 +6830,7 @@ assets2.suncorp.com.au
 assets2.terrischeer.com.au
 assets2.vanz.vero.co.nz
 assets2.vero.co.nz
+assets.9gtb.com
 assets.channelplay.in
 assets.datarize.ai
 assets.eafit.edu.co
@@ -7993,6 +7994,7 @@ bu.actonservice.com
 bu.adpinfo.com
 buasmk.earthshoes.com
 bubblewrapp.actonservice.com
+bubblyaction.com
 budibu.saksfifthavenue.com
 buf.lemonde.fr
 bugdsm.buffalo-boots.com
@@ -8122,6 +8124,7 @@ caderonline.bu.edu
 cadsuta.net
 caf.actonservice.com
 cafefrench.com
+cafescampfires.com
 cafirebreather.com
 cagkpu.suitdirect.co.uk
 cakeagenda.com
@@ -8376,6 +8379,7 @@ cesa6.actonservice.com
 cesario.bt.no
 cfaexam.quantresear.ch
 cfa.fidelity.com
+cf.api.instant.one
 cfb.8it.me
 cf.campagnes-france.com
 c.fingerprint.com
@@ -11334,6 +11338,7 @@ domself.de
 d.omsnative.de
 donjigrad.viessmann.rs
 do-not-tracker.org
+doomhedge.com
 dopljl.noleggiosemplice.it
 doppler-beacon.cbsivideo.com
 doppler-client-events.cbsivideo.com
@@ -12921,6 +12926,7 @@ events.newsroom.bi
 events.nuance.com
 events.oakstreethealth.com
 events.ocdn.eu
+events-ocu.zipify.com
 events.oddo-bhf.com
 events.onet.pl
 events.paramount.tech
@@ -17356,6 +17362,7 @@ jdzmqj.thousandtrails.com
 jeccmq.wehkamp.nl
 jeedmact.sc.com
 jeffersonawards.actonservice.com
+jellyfinstream.com
 jelndb.truereligion.com
 jelr1.dili.fr
 jensenhughes.actonservice.com
@@ -25201,6 +25208,7 @@ pixel.tuko.co.ke
 pixelvariety.com
 pixel.veritone-ce.com
 pixel.videohub.tv
+pixel.wetracked.io
 pixel.wp.com
 pixel.wp.pl
 pixel.yabidos.com
@@ -38986,6 +38994,7 @@ t.valcyte.com
 tvcoag.brw.pl
 t.veranstaltungsticket-bahn.de
 tver-metrics.streaks.jp
+t.vibe.co
 t.villanova.com
 t.virginiasports.com
 tvkfms.nta.co.jp
@@ -42119,7 +42128,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 14NOV25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 17NOV25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
