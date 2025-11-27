@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 24NOV25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 26NOV25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4876,6 +4876,7 @@ alltypo.com
 alluringbucket.com
 allvideometrika.com
 almalasers.actonservice.com
+almondbuns.com
 almostsugar.com
 al.mtrx.dev
 al.mtrxs.dev
@@ -11303,6 +11304,7 @@ dm-target.thermofisher.com
 dmtgo.upc.biz
 dmuwlm.fonteynspas.com
 dmvbpz.swimoutlet.com
+dmw2pzbenclyd.cloudfront.net
 dmxhgf4zuwdvu.cloudfront.net
 dn34cbtcv9mef.cloudfront.net
 d.nativendo.de
@@ -23416,6 +23418,7 @@ motista.actonservice.com
 motm.adp.ca
 motorsports.locktonaffinity.net
 motu-teamblue.services
+mountedbattery.com
 mousebusters.odencat.com
 move.azets.com
 move.azets.dk
@@ -24069,6 +24072,7 @@ nudgeduck.com
 nu.esri.nl
 nukktn.dorko.hu
 nullnorth.com
+nullradar.com
 numbers.monthlyphotos.com
 numerousnest.com
 nums.upscale.app
@@ -24631,6 +24635,7 @@ organiccdn.io
 organizations.stratfor.com
 orhdev.com
 orientedargument.com
+originblocks.com
 origin-smetrics.go365.com
 origin-target.humana.com
 origin.www.images.2.forms.healthcare.philips.com
@@ -28743,6 +28748,7 @@ siusmv.coraltravel.pl
 six9e.canal.fr
 sixauthority.com
 sixpants.com
+sixquickrun.com
 sixscissors.com
 sizcsi.eobuv.cz
 sizybn.shipsltd.co.jp
@@ -42154,7 +42160,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 24NOV25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 26NOV25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
