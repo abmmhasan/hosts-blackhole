@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 26NOV25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 28NOV25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -8239,6 +8239,7 @@ capture.norm0care.com
 c.aquaservice.com
 car-a8.tabirai.net
 caradonna.actonservice.com
+carbongarden.net
 carburanalyticsspace.carte-gr.total.fr
 carburez-a-l-emotion.carte-gr.total.fr
 cardexchanges.carte-gr.total.fr
@@ -13412,6 +13413,7 @@ fluentco.actonservice.com
 flushingbeast.com
 flutteringfireman.com
 fly.caljetelite.com
+flystranger.com
 flznib.weblio.jp
 fma7.aegon.es
 fmbankva.actonservice.com
@@ -15087,6 +15089,7 @@ hello.wellocution.com
 helpcollar.com
 helpdesk.thinkhdi.com
 helpflame.com
+helpingbits.com
 hemblx.vans.cl
 herbgreencolumn.com
 herpes2.pa-ruit.jp
@@ -25619,6 +25622,7 @@ premiercio.actonservice.com
 premiumapp.byjus.com
 prenesi-mojm.mercator.si
 prepareplanes.com
+prepaymint.net
 presetrabbits.com
 presscoder.com
 prettyeasycafe.com
@@ -34973,6 +34977,7 @@ tao.barstoolsports.com
 t.ao.consumerfinancereport.com
 t.ao.walletjoy.com
 tap.carling.com
+tapi.kaufda.de
 t.appsflyer.com
 t.appstatesports.com
 t.arcade.show
@@ -42160,7 +42165,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 26NOV25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 28NOV25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
