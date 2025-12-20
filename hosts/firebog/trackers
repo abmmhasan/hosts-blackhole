@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 17DEC25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 19DEC25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -8069,6 +8069,7 @@ butterburst.com
 buttonladybug.com
 buyer.okiela.com
 buzzaoutlet.com
+buzzfry.com
 buzz.logility.com
 buzz.neilsonmarketing.com
 buzz.vocus.com
@@ -9091,6 +9092,7 @@ confiant-integrations.net
 confiant.msn.com
 confidencetalks.com
 configchain.com
+configcontrol.com
 configure.adlermode.com
 confirm.aon.com
 confirmglobal.com
@@ -9391,6 +9393,7 @@ cookies.siemens-advanta.com
 cookies.siemens.com
 cookies.siemens-energy.com
 cookies.siemens-healthineers.com
+cookiestorybook.com
 cookies.wpcarey.com
 cookie.sync.usonar.jp
 cookietracking.eatonpowersource.com
@@ -9406,6 +9409,7 @@ copperstills.net
 copycarpenter.com
 copyfranchise.com
 copyrightaccesscontrols.com
+copytweaks.com
 copyvibes.com
 coralcranes.com
 coralreverie.com
@@ -19283,6 +19287,7 @@ log.willie.nl
 log.worldsoft-cms.info
 logx-experimentation.iherb.com
 logx.optimizely.com
+log.zcool.com.cn
 log.zdnet.co.kr
 log.zongheng.com
 lokalwerben.t-online.de
@@ -26848,6 +26853,7 @@ rum.api.intuit.com
 rum.azioncdn.net
 rum.azion.com
 rum.cdnpure.com
+rum-collector.leaderint.workers.dev
 rum.condenastdigital.com
 rum.corewebvitals.io
 rum.cronitor.io
@@ -35478,6 +35484,7 @@ telemetry.smartframe.io
 telemetry.soundcloud.com
 telemetry.stryker.com
 telemetry.stytch.com
+telemetry.svc.transifex.net
 telemetry.tableausoftware.com
 telemetry.tradingview.com
 telemetry.transcend.io
@@ -40639,6 +40646,7 @@ web.tummytox.sk
 web.ulta.com
 web.usautosupply.com
 webvitals.luxnet.ua
+web-vitals-script.leaderint.workers.dev
 web.vonazon.com
 web.wearejust.co.uk
 web.web.tomasiauto.com
@@ -42212,7 +42220,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 17DEC25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 19DEC25 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
