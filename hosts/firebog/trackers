@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 24JAN26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 26JAN26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -12733,6 +12733,7 @@ epoisepreptest.epoise.com
 e.pomonaelectronics.com
 ep.regis.edu
 eproof.drudgereport.com
+epsilon.6sense.com
 epsilondelta.co
 epwa.europarl.europa.eu
 eq-beacon.stream.co.jp
@@ -19710,6 +19711,7 @@ maformationofficinale.actonservice.com
 magento-recs-sdk.adobe.net
 maggieeatstheangel.com
 magicaljoin.com
+magicalpiano.com
 magic.freetrade.io
 magicminibox.com
 magic.prism.gg
@@ -37429,6 +37431,7 @@ track.zappos.com
 tr.acq-pjms.fr
 trac.roomster.com
 tr.actiflip.devisdirect.com
+traction.technologyadvice.com
 tr.activeprospects.info
 tr.actualites.bfmtv.com
 tr.actualites.reseau-lcd.org
@@ -40051,6 +40054,7 @@ uzhobt.wholesalemarine.com
 uzipbs.weltbild.ch
 uzpkre.connor.com.au
 v16m-default.akamaized.net.iberostar.com
+vacationsgolf.com
 v.adblockultimate.net
 vahlnd.bogsfootwear.com
 valdes.net.anwalt.de
@@ -40205,6 +40209,7 @@ vip.granicus.com
 vip.maxtor.com
 vipwao.nutrimuscle.com
 vipyou.bulkpowders.es
+viralfoodie.net
 virtualvincent.com
 vision.cbre.com.au
 vision.cbresi.com.au
@@ -40846,6 +40851,7 @@ whimsicalcanyon.com
 whimsicalgrove.com
 whimsicalvantage.com
 whimsicalzenith.com
+whimsygadget.com
 wh.ipaddress.com
 whirlwealth.com
 whiskyqueue.com
@@ -42357,7 +42363,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 24JAN26 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 26JAN26 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
