@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 25 February 2026 16:30:05 (UTC)
+# Date: 28 February 2026 12:13:17 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling, porn, social
-# Number of unique domains: 87,787
+# Number of unique domains: 87,788
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2207,9 +2207,9 @@
 0.0.0.0 yubasuttertimes.com
 0.0.0.0 zombie.news
 # Title: hostsVN Gambling VN
-# Last modified: 24 Feb 2026 16:39 UTC+7
-# Version: 2602241639
-# Blocked: 3.256 domains
+# Last modified: 26 Feb 2026 16:29 UTC+7
+# Version: 2602261629
+# Blocked: 3.257 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2687,6 +2687,7 @@
 0.0.0.0 betlv.com
 0.0.0.0 bettingroup.net
 0.0.0.0 betvip.center
+0.0.0.0 betvip.network
 0.0.0.0 betvisa.com
 0.0.0.0 betvisa.dog
 0.0.0.0 betvnd.cc
@@ -8113,8 +8114,8 @@
 0.0.0.0 everbet.bg
 0.0.0.0 slotino.bg
 # Title: hostsVN Adult VN
-# Last modified: 24 Feb 2026 16:39 UTC+7
-# Version: 2602241639
+# Last modified: 26 Feb 2026 16:29 UTC+7
+# Version: 2602261629
 # Blocked: 1.866 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
