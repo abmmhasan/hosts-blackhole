@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 04MAR26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 06MAR26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -7426,6 +7426,7 @@ beneficios.davivienda.hn
 beneficios.davivienda.sv
 benefits.aon.com
 benelux2.secureforms.mcafee.com
+bentengine.com
 bento.agoda.com
 beoecomapim.bang-olufsen.com
 beoofo.pairs.lv
@@ -7695,6 +7696,7 @@ bonfire.spklw.com
 bonne-terre-data-layer.com
 bonuscake.ru
 bonuscomplex.com
+bookbeef.com
 booking.getwaitnot.com
 book.londonsoundacademy.com
 bookprobe.com
@@ -42485,7 +42487,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 04MAR26 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 06MAR26 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
