@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 20MAR26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 23MAR26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -7292,6 +7292,7 @@ bancopostapremia.bancoposta.it
 bandborder.com
 banks.adpinfo.com
 bank.svb.com
+banner.appsflyersdk.com
 banstat.nadavi.net
 bapages.carte-gr.total.fr
 barbadoshello.com
@@ -13472,6 +13473,7 @@ firstscreenshot.com
 firurx.invia.hu
 fishersfinds.com
 fishing.daigostudio.com
+fishingtoolsbox.com
 fitmessage.com
 fitnessmapper.com
 fivesidedsquare.com
@@ -13876,6 +13878,7 @@ fuzrxc.aboutyou.nl
 fuzzyaudio.com
 fuzzybasketball.com
 fuzzyerror.com
+fvalid.appsflyersdk.com
 fvc.alcatel-lucent.com
 fvuitt.alibabuy.com
 fvvyjd.jtv.com
@@ -17124,6 +17127,7 @@ inquisitiveice.com
 inquisitiveinvention.com
 ins.connatix.com
 insectmacros.com
+insidepsych.net
 insight.aon.com
 insight.autovistagroup.com
 insight.boomer.com
@@ -24100,6 +24104,7 @@ ninja.onap.io
 nirdjz.revolveclothing.com.au
 nisaapp.nexus-dt.com
 nitrous-analytics.s3.amazonaws.com
+nixie.starlightnet.work
 njnlih.realitatea.net
 njorya.aosom.de
 njtwub.schneider.de
@@ -24726,6 +24731,7 @@ onecrow.net
 onedropocean.com
 one.godigit.com
 oneid.mmstat.com
+onelinksmartscript.appsflyersdk.com
 onelink.taptalk.io
 onem.marketing.onemarketinguxp.com
 onenet.gakujutsu.com
@@ -24776,6 +24782,7 @@ oossod.potterybarn.ae
 o.otrestaurant.com
 opalquill.com
 opbdps.bonprix.fi
+op.dragonfru.it
 open.ailo.app
 open.anghami.com
 open.bitcoinmagazine.app
@@ -28919,6 +28926,7 @@ sicas.ikea.com
 sicas.ikea.net
 sicksmash.com
 siderain.com
+sidetrades.com
 sid.nordstrom.com
 sierrakermit.com
 siewmi.uncommongoods.com
@@ -35199,6 +35207,7 @@ tagservice.maximus.mobkoi.com
 tags.esri.ca
 tags.esri.com
 tags.esri.rw
+tags-event.woolworths.co.nz
 tags.fullcontact.com
 tags.globo.com
 tags.hilabel.nl
@@ -36295,6 +36304,7 @@ t.longbeachstate.com
 tlsalw.platypusshoes.co.nz
 tls.thelibrarystore.com
 t.lsusports.net
+t.ltiquery.com
 tltkpu.jagran.com
 tltpyy.saatchiart.com
 tl.tradetracker.net
@@ -36563,6 +36573,7 @@ trace.insead.edu
 trace.qq.com
 tracer.autoscout24.ch
 trace.swaven.com
+traces.youdo.com
 track1.avplayer.com
 track2.cliplister.com
 track2.dulingo.com
@@ -40548,6 +40559,7 @@ waaf1.alditalk.de
 waaf1.hoferfotos.at
 waaf.medion.com
 wa.and.co.uk
+wa.appsflyersdk.com
 waatch.gva.be
 waatch.hbvl.be
 waatch.nieuwsblad.be
@@ -40841,6 +40853,7 @@ webpixel.smartmeapp.com
 webpushstat.api.engagelab.cc
 web.redazione.milanofinanza.it
 websdk.appsflyer.com
+websdk.appsflyersdk.com
 websdkmetrics.blackrock.com
 web.sensilab.com
 web.sensilab.cz
@@ -42512,7 +42525,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 20MAR26 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 23MAR26 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
