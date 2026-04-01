@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 30MAR26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 01APR26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4998,7 +4998,7 @@ ana.3751chat.com
 ana.chat.shalove.net
 anaconda.net.anwalt.de
 ana.e-ticket.co.jp
-anal.billingserv.com
+anal.baseserv.com
 anal.doubledouble.top
 analitica.webrpp.com
 analitik.bik.gov.tr
@@ -7404,6 +7404,7 @@ beacon.sojern.com
 beacon.statful.com
 beacon.walmart.com
 beacon.watch.impress.co.jp
+beacon.webpresence.work
 beacon.wikia-services.com
 beafdf.restaupro.com
 beagle.prod.tda.link
@@ -8990,7 +8991,6 @@ collector.taoxh.life
 collector.theconversation.com
 collector.t-idr.com
 collector-videoplayer.5centscdn.net
-collector.wawlabs.com
 collector.xhaccess.com
 collector.xhamster2.com
 collector.xhamster3.com
@@ -25236,6 +25236,7 @@ paynewest.actonservice.com
 payqjd.subito.it
 payroll.smartsalary.com.au
 pay.truemoney.me
+pbc.barrons.com
 pbc.programbrokerage.com
 pbecrm.aquanet.ru
 pb.i.sogou.com
@@ -26018,6 +26019,7 @@ propsynergy.com
 prospex.actonservice.com
 pro.stormwindstudios.com
 protapes.actonservice.com
+protechts.net
 protectpool.com
 protestcopy.com
 protosell.actonservice.com
@@ -35217,6 +35219,7 @@ tag.rmp.rakuten.com
 tags.air1.com
 tags.aljazeera.com
 tags.aljazeera.net
+tags.barrons.com
 tags.catapultx.com
 tags.cmp.tail.digital
 tags.dxmdp.com
@@ -40664,6 +40667,7 @@ wa.vodafone.de
 wa.vodafone.pt
 wavrlh.cedok.cz
 wavzlt.michaelstars.com
+wa.wawlabs.com
 wa.wdr.de
 wa.wdrmaus.de
 wa.web.de
@@ -41061,10 +41065,12 @@ widget.educationdynamics.com
 widgethouse.com
 widget-pixels.outbrain.com
 wigkxx.jetcost.com
+wikiquotations.com
 wikiwhatwhere.com
 wildcommittee.com
 wildwoodavenue.com
 w.ilfattoquotidiano.it
+windbeetle.com
 win.staticstuff.net
 wirecomic.com
 wiredforcoffee.com
@@ -42549,7 +42555,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 30MAR26 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 01APR26 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
