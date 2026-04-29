@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 27APR26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 29APR26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -7271,6 +7271,7 @@ bablace.com
 babyblissgifts.com
 baccarat.abzorbagames.com
 backoffice.verintsystemsinc.com
+backtension.com
 backupcat.com
 baconbags.com
 badgeboat.com
@@ -17270,6 +17271,7 @@ interworks.cloud.actonservice.com
 intg.snapchat.com
 in.treasuredata.com
 intricateberry.com
+introjava.com
 int-shares.ri.la
 intuitvisitorid.api.intuit.com
 in.upipr.co
@@ -23921,6 +23923,7 @@ na-pages.husqvarna.com
 nappyattack.com
 nappyneck.com
 narc-dc.actonservice.com
+narrativ.com
 nasi.etherscan.com
 nasscom.epoise.com
 nasscomtest.epoise.com
@@ -24811,6 +24814,7 @@ onlinevacationcenter.actonservice.com
 onlywoofs.com
 onmlkjiion.carte-gr.total.fr
 onoztg.ultimate-guitar.com
+onsitestats.bluecore.com
 ontxgr.hofer-reisen.at
 oocrzh.byojet.com
 oo.ooshop.com
@@ -34324,7 +34328,6 @@ stats.sebastiandombrowski.de
 stats.sebastiangale.ca
 stats.sec.telefonica.com
 stats.selectam.io
-stats.sender.net
 stats.sendngnt.com
 stats.senty.com.au
 stats.servicedesignjobs.com
@@ -42608,7 +42611,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 27APR26 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 29APR26 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
