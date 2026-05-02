@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 29APR26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 01MAY26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -5212,6 +5212,7 @@ analytics.faceitanalytics.com
 analytics.faprika.net
 analytics.fatmedia.io
 analytics.favcy.com
+analytics-fe.digital-cloud.medallia.ca
 analytics-fe.digital-cloud.medallia.com
 analytics-fe.digital-cloud-prem.medallia.com
 analytics.ferguson.com
@@ -7034,6 +7035,7 @@ autozone.actonservice.com
 autspe.notino.hr
 auwdff.dyfashion.ro
 aux.lansator.ro
+aux-log.bidmatic.io
 av6fm8zw2cvz.furucombo.app
 avads.net
 avai.actonservice.com
@@ -7526,6 +7528,7 @@ b.iheart.southwest.com
 bi.heyloyalty.com
 bi.irisdating.com
 bijkep.hotelesestelar.com
+bikeexerciser.com
 bikepaws.com
 bikesboard.com
 bikinginspire.com
@@ -7546,6 +7549,7 @@ bint.openapp.link
 bioagiliytix.actonservice.com
 bioanalyticalmarketing.eurofins-info.com
 bio.chups.co
+biologylog.com
 biophysicsgroup.actonservice.com
 bi.pst.tech
 birthdaybelief.com
@@ -8174,6 +8178,8 @@ b.zedge.me
 bzlold.machi.to
 bznxqj.fiat.it
 bzqxze.remixshop.com
+bzrcdn.openai.com
+bzr.openai.com
 bzuaqh.roan.nl
 c0012.brsimg.com
 c0i.ckoi.com
@@ -24347,6 +24353,7 @@ nuyibu.pieper.de
 nuyujp.barstoolsports.com
 nv.inhaabit.com
 nvpdaa.brightcellars.com
+nvrmd.novaramedia.com
 nvumcv.standoil.kr
 nvxlag.liligo.fr
 nwajdf.zakzak.co.jp
@@ -42611,7 +42618,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 29APR26 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 01MAY26 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
