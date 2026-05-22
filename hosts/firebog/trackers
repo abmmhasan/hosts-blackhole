@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 20MAY26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 22MAY26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -13583,7 +13583,6 @@ fjdzgn.paulfredrick.com
 fjgcai.zlavomat.sk
 fjighz.armaniexchange.com
 fjkjaj.peterhahn.nl
-fjordsand.com
 fjortk.braun-hamburg.com
 fjuccm.uktsc.com
 fkdaik.lightinthebox.com
@@ -41353,6 +41352,7 @@ worker-app-staging.buildforce.com
 workforcetrends.advancedtech.com
 workhorsefunds.com
 workoperation.com
+workplacelight.com
 workplace.ricoh.de
 workplace.ricoh.ie
 workplace.ricoh.it
@@ -42338,6 +42338,7 @@ y738.nhregister.com
 y820.darientimes.com
 y8hxgv9m.kobetsu.co.jp
 y900.greenwichtime.com
+yachtloft.com
 yadtbk.blacks.co.uk
 yagoqv.smartbuyglasses.ca
 yajkhd.supersports.com
@@ -42770,7 +42771,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 20MAY26 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 22MAY26 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
