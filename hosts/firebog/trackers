@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 03AUG26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 05AUG26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -5333,6 +5333,7 @@ analytics.martinandosa.com
 analytics.massivwerthaus.at
 analytics.matchbin.com
 analytics.maxroll.gg
+analytics.maxx53.com
 analytics.mc500.info
 analytics.media-proweb.de
 analytics.meituan.net
@@ -12339,6 +12340,7 @@ elq.xperthr.co.uk
 elq.xperthr.nl
 elr.sfr.fr
 els298548211.medtronic.com
+el.siglo.mx
 eltlio.boribori.co.kr
 elusivebreeze.com
 elusivecascade.com
@@ -12779,6 +12781,7 @@ engage.jboss.com
 engage.jlclive.com
 engage.krm22.com
 engage.marketone.com
+engagement.coremedia.cloud
 engagement.feedly.com
 engagemetrics.cisco.com
 engage.mhainc.com
@@ -13120,6 +13123,7 @@ events-ingestion-helpcenter.services.gorgias.help
 eventsink.api.redbee.live
 events.interface.com
 events.jotform.com
+events.julephosting.de
 events.kangan.edu.au
 events.limango.com
 events-logs.doctolib.com
@@ -13388,6 +13392,7 @@ fancycolorlist.net
 fancydune.com
 fangfeeling.com
 fan.info.heat.com
+fanless.net
 faokwl.sklepogrodniczy.pl
 faqtjp.redley.com.br
 farahatco.actonservice.com
@@ -13814,7 +13819,6 @@ fptls2.com
 fptls3.com
 fptls4.com
 fptls.com
-fpt.microsoft.com
 fp-upload.dun.163.com
 fpvrgm.blackforestdecor.com
 fpxewa.ilmeteo.it
@@ -15714,6 +15718,7 @@ idndlc.kango-oshigoto.jp
 idqwqm.kkday.com
 idrivelogistics.actonservice.com
 ids.actonservice.com
+idsmodules.com
 idstatus.sky.com
 iduk.barcodesgroup.com
 id-ward.com
@@ -21920,6 +21925,7 @@ metric.duluthtrading.com
 metric.emerils.com
 metric.fatcatalog.com
 metric.foodbusinessnews.net
+metricfresh.com
 metric.fxdd.com
 metric.genesis.es
 metric.golfnow.com
@@ -25272,6 +25278,7 @@ panoramicplane.com
 pa.opqr.co
 papamug.com
 papemz.rcwilley.com
+pa.pinpoll.com
 papi.stylar.ai
 pappagallu.onefootball.com
 paqqlk.motatos.de
@@ -25310,6 +25317,7 @@ partnersuccess.cisco.com
 partnersuccessmetrics.cisco.com
 partnerwith.us.streetbond.com
 partplanes.com
+partycharge.com
 passivepolo.com
 passwordbyte.com
 pa-stats.encore.dev
@@ -32387,6 +32395,7 @@ s.northumberlandnews.com
 snowflake.qq.com
 snowman.odencat.com
 snowmentor.com
+snowpeaksoftware.com
 snowplowjs.darwin.cx
 snprxx.wwfmarket.com
 snptrk.com
@@ -32432,6 +32441,7 @@ solidscape.actonservice.com
 solidsub.com
 solmax.actonservice.com
 solosduetstrios.com
+solsticeblack.com
 solucionesreales.americanexpress.es
 solution.agc-chemicals.com
 solution.resonac.com
@@ -32752,6 +32762,7 @@ sonar6-yyz1-1.xx.fbcdn.net.iberostar.com
 s-onetag.com
 soneticscorp.actonservice.com
 songsterritory.com
+sonicsessions.net
 so.opentable.com
 so.opentable.co.uk
 soothingglade.com
@@ -33987,6 +33998,7 @@ stats.evenchilada.com
 stats.executebig.org
 stats.exploratv.ca
 stats.extendedstayamerica.com
+stats.externulls.com
 stats.extramilefloorcare.com
 stats.eyehelp.co
 stats.fabiofranchino.com
@@ -35496,7 +35508,6 @@ targetemsecure.blob.core.windows.net
 target.eon.de
 target.ey.com
 target.farnell.com
-targetfax.com
 target.fiatusa.com
 target.firestonebpco.com
 target.fleetcardsusa.com
@@ -42707,7 +42718,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 03AUG26 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 05AUG26 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
