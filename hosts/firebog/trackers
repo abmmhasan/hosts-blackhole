@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 05AUG26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 07AUG26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -11342,6 +11342,7 @@ discreetquarter.com
 dispatchunique.com
 displaymaxmerchandising.actonservice.com
 di.spreadmorelove.ch
+distantflame.com
 distiller.kano.link
 distillery.wistia.com
 distilltable.com
@@ -17979,6 +17980,7 @@ kiqwil.l-m.co.jp
 kirsrn.runway-webstore.com
 kistacity.viessmann.se
 kit22.com
+kitchenbasin.com
 kitchen.juicer.cc
 kitetuning.com
 k.itribe.in
@@ -25513,6 +25515,7 @@ pings.vidpulse.com
 pinptg.milleni.com.tr
 pint-dev-branch.airship.com
 pionmj.companyshop24.de
+pipadvance.com
 pi.pdfjs.express
 pipe-collect.ebu.io
 pipedream.wistia.com
@@ -34932,6 +34935,7 @@ subpixel.4players.de
 subscribe.adpinfo.com
 subscribe.dnv.com
 subscriber.franchiseinsights.com
+subscriberlists.com
 subscriber.smallbusinessstartup.com
 subscribe.verintsystemsinc.com
 subscribe.vistage.com
@@ -34965,6 +34969,7 @@ success.etgroup.ca
 success.getfluid.com
 success.intelligentdemand.com
 success.mapcom.com
+successmenu.com
 success.rhb.com
 success.vertigis.com
 success.vertigisstudio.com
@@ -36219,6 +36224,7 @@ tics.cortex.gg
 tics.seeker.gg
 tics.techdirt.com
 ticvui.alexandani.com
+tidaldrops.com
 tidy.intel.cn
 tidy.intel.co.jp
 tidy.intel.co.kr
@@ -42718,7 +42724,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 05AUG26 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 07AUG26 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
