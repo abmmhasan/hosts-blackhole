@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 07SEP26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 09SEP26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -35228,6 +35228,7 @@ suncanny.marvel.com
 suncanny.marvelhq.com
 sunflaggroup.com
 sunlightmetrics.b-cdn.net
+sunnylettings.com
 sunsetcampfires.com
 sunsetstatic.com
 sunshinegates.com
@@ -35265,6 +35266,7 @@ survey-staging.mazda.com.au
 survey.xo.com
 s.useeffectbyexample.com
 s.usenix.org
+sushivolant.com
 sustainability.ricoh.ch
 sustainability.ricoh.co.za
 sustainable.optum.com
@@ -36078,10 +36080,12 @@ teamstatus.net
 tearfulglass.com
 te.baur.de
 techadv.actonservice.com
+techcatcher.com
 techconverter.com
 techdrivethru.com
 tech.finalto.com
 techgifts.tradeshow.globalsources.com
+techmix.net
 technical.kyzen.com
 technology1.informaengage.com
 technologyadvice.actonservice.com
@@ -43011,7 +43015,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 07SEP26 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 09SEP26 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
