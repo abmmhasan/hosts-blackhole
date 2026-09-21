@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 18SEP26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 21SEP26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -5405,6 +5405,7 @@ analytics.onlinehomeretail.co.uk
 analytics.onlyonlinemarketing.com
 analytics.optilead.co.uk
 analytics.orenshmu.com
+analytics.org.coveo.com
 analytics.ostr.io
 analytics.ovh.com
 analytics.oyorooms.com
@@ -5833,6 +5834,7 @@ apllogistics.actonservice.com
 aplobv.xexymix.com
 aplus.alibaba.com
 apm.qwant.com
+apm-rum.inf.miui.com
 apm.tnet.nl
 a.pork.org
 a.pourquoidocteur.fr
@@ -6555,6 +6557,7 @@ apps.daxko-qa.com
 apps.ding.jobs
 app.seasonshare.com
 apps.e-butler.com
+appsecstudio.com
 appsecurezomation.carte-gr.total.fr
 app.segno.org
 app.select.id
@@ -7805,6 +7808,7 @@ boundlessbrake.com
 boundlessveil.com
 boutique.ricoh.fr
 bowl.actonservice.com
+bowlershut.com
 boxandcover.com
 box.bossdata.be
 b.parade.com
@@ -8765,6 +8769,7 @@ click.glamsquad.com
 clickins.slixa.com
 click.instacartemail.com
 click.kataweb.it
+click.lenovo.com
 click.lmbcustomersupport.com
 click.mail.carousell.com
 click.mail.thecarousell.com
@@ -9905,6 +9910,7 @@ cueohf.forumpro.fr
 cueohf.forumsactifs.com
 cueohf.hungarianforum.com
 cufroa.aboutyou.be
+cuisinevoyager.com
 culliganwaterco.actonservice.com
 culturedcamera.com
 culturedfeather.com
@@ -11541,6 +11547,7 @@ dmndfrcstng.com
 d.m-net.de
 dmpcdn.el-mundo.net
 dmp.citynews.ovh
+dmplog.qq.com
 dmpmetrics.rcsmetrics.it
 dmpxs.com
 dmqykw.thirtymall.com
@@ -18483,6 +18490,8 @@ leecompany.actonservice.com
 leftliquid.com
 legalhold.ediscovery.com
 legolas.monotote.com
+lego-tech.zhuanzhuan.com
+lego.zhuanzhuan.com
 lekfso.hitohana.tokyo
 lem.nouvelobs.com
 lemonpi.io
@@ -19659,6 +19668,7 @@ logs.dynamicauth.com
 log.seekda.com
 logservice1.hicloud.com
 logservice.hicloud.com
+logs.game.qq.com
 logs.hotstar.com
 log.sina.cn
 logs.kaya.delfi.ee
@@ -20150,6 +20160,7 @@ managedaccounts.nvenergy.com
 managedaccounts.pacificpower.net
 managedaccounts.rockymountainpower.net
 manamoment.com
+manateemotors.com
 mandant.net.anwalt.de
 mandrillapp.zola.com
 manufacturing.autodeskcommunications.com
@@ -24230,6 +24241,7 @@ neoncsr21.net.anwalt.de
 neonsites.com
 neosllc.actonservice.com
 neowiv.brumbrum.it
+nerdworldcon.com
 nerldv.ullapopken.pl
 nervoussummer.com
 nestbuyers.com
@@ -24823,6 +24835,9 @@ omftdc.morijuku.com
 omgcreative.actonservice.com
 om.greatrentals.com
 omgthink.com
+omgup1.xiaojukeji.com
+omgup.didiglobal.com
+omgup.xiaojukeji.com
 om.healthgrades.com
 om.homeaway.ca
 om.homeaway.co.in
@@ -25782,6 +25797,7 @@ pixel.lilystyle.ai
 pixel.locker2.com
 pixel.marqo-ep.ai
 pixel.mintigo.com
+pixelmoonstudio.com
 pixel.mtrcs.samba.tv
 pixel.newscred.com
 pixel.nine.com.au
@@ -33090,6 +33106,7 @@ sp.data.funkedigital.de
 sp.dpgmedia.net
 spea.eko.com
 specialevent.informaengage.com
+specialreview.net
 specialscissors.com
 specialtypin.com
 sp.ecosia.org
@@ -35082,6 +35099,7 @@ stormwind.actonservice.com
 stormyflower.com
 s.toronto.com
 s.toyotafinancial.com
+stpc.vivo.com.cn
 st.picshuffle.com
 st.preciousamber.com
 str1kee.com
@@ -35159,6 +35177,7 @@ st.s-bahn-muenchen-magazin.de
 stscs.ditzo.nl
 sts.eccmp.com
 sts.eliasjarzombek.com
+st-sentinel.vivo.com.cn
 sts.marketingsuite.jp
 sts.papyrs.com
 sts.tour-europe.org
@@ -35281,6 +35300,7 @@ superficialspring.com
 superficialsquare.com
 superiorgroup.actonservice.com
 superpointlesshamsters.com
+superstarorganizer.com
 superstats.observepoint.com
 s.upoker.net
 supplyreward.com
@@ -35418,7 +35438,6 @@ swa.personalcreations.com
 swa.postnl.nl
 swa.regiobank.nl
 swasc.homedepot.ca
-swasc.homedepot.com
 swasc.kaufland.bg
 swasc.kaufland.com
 swasc.kaufland.cz
@@ -36659,6 +36678,7 @@ tk.cadeaux.com
 t.kck.st
 tk.conforama.fr
 tk.dietbon.fr
+tk.d.mi.com
 tk.domitys.fr
 tk.dossier.co
 tkelq.genesys.com
@@ -37153,6 +37173,7 @@ tracker.eft.com
 tracker.ethicalcorp.com
 tracker.euroweb.net
 tracker.eyeforpharma.com
+tracker.fengkongcloud.com
 tracker.financialcontent.com
 tracker.gamedock.io
 tracker.gamemonkey.org
@@ -37958,6 +37979,7 @@ track.kueez.com
 track.kyoads.com
 trackla.stackla.com
 track.leady.cz
+track.lenovo.com.cn
 track.lesmills.com
 track.list-finder.jp
 track.livasoft.com.tr
@@ -42564,6 +42586,7 @@ xmyvhu.soxo.pl
 xnukcp.cpcompany.com
 xp2023-pix.s3.amazonaws.com
 xp.allianz.de
+xp.atlassian.com
 xpcpmr.gsm55.com
 xps.huk24.de
 xps.huk.de
@@ -43067,7 +43090,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 18SEP26 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 21SEP26 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
