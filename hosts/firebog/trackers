@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 05OCT26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 07OCT26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -7667,6 +7667,7 @@ blackdagger.openapp.link
 blackenterprise.black.news
 blackjack.abzorbagames.com
 blackmesh.actonservice.com
+blackrednecks.com
 blacktri-a.akamaihd.net
 bladv.actonservice.com
 blaltn.physicianschoice.com
@@ -8444,6 +8445,7 @@ cars.smartleasing.com.au
 c.arstechnica.com
 carte.fleet-page.total.fr
 cartelsalsa.com
+cartersci.com
 cartjoint.com
 cartlug.com
 cartoon.hardalist.com
@@ -24094,6 +24096,7 @@ mupmos.levis.com.au
 muqtti.motoin.de
 mushroomgods.com
 mushywaste.com
+musicenforcer.com
 musicflashcard.com
 muteknife.com
 mutemailbox.com
@@ -34377,6 +34380,7 @@ stats.fishersci.com
 stats.fishersci.de
 stats.fishersci.it
 stats.flightsphere.com
+stats.flixcloud.cc
 stats.flixhq.live
 stats.florianfritz.net
 stats.flowphantom.com
@@ -41000,6 +41004,7 @@ visit.tenplay.com.au
 visma.e-conomic.dk
 vismaturva.visma.fi
 visor.sberbank.ru
+visualcommservices.com
 visualscience.external.bbc.co.uk
 vitalimages.actonservice.com
 vitalmedia.actonservice.com
@@ -43178,7 +43183,7 @@ zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 
 # Prigent-Ads, parsed and mirrored by https://firebog.net
-# Updated 05OCT26 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
+# Updated 07OCT26 from https://dsi.ut-capitole.fr/blacklists/download/publicite.tar.gz
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi
 
